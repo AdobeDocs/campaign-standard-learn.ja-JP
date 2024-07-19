@@ -1,6 +1,6 @@
 ---
 title: A/B テスト
-description: A/B テストを設定して送信し、E メールの件名行をテストする方法を説明します。
+description: メールの件名をテストするための A/B テストを設定して送信する方法を説明します。
 feature: A/B Testing
 jira: KT-3907
 thumbnail: 18480.jpg
@@ -12,17 +12,17 @@ role: User
 level: Beginner
 source-git-commit: 943599bd7ce139ef846f093ebda9084a91550aca
 workflow-type: tm+mt
-source-wordcount: '121'
-ht-degree: 37%
+source-wordcount: '114'
+ht-degree: 30%
 
 ---
 
 # A/B テスト
 
-The [!UICONTROL A/B Test] Adobe Campaignの機能を使用すると、2 ～ 3 種類の e メールのバリエーションを定義できます。 どのバリエーションがどのターゲットで最良の結果を得られるか確認するために、各バリエーションが母集団のサンプルに送られます。結果が明確になったら、勝者バリアントが残りの母集団に送信されます。メールの内容、件名、送信者を変更できます。
+Adobe Campaignの [!UICONTROL A/B Test] 機能を使用すると、2～3 つのメールのバリエーションを定義できます。 どのバリエーションがどのターゲットで最良の結果を得られるか確認するために、各バリエーションが母集団のサンプルに送られます。結果が明確になったら、勝者バリアントが残りの母集団に送信されます。 メールの内容、件名、送信者を変更できます。
 
-A/B テストを設定して送信し、E メールの件名行をテストする方法を説明します。
+メールの件名をテストするための A/B テストを設定して送信する方法を説明します。
 
 >[!VIDEO](https://video.tv.adobe.com/v/18480?learn=on){transcript=true}
 
-詳しくは、 [製品ドキュメント](https://experienceleague.adobe.com/docs/campaign-standard/using/communication-channels/email-messages/designing-an-a-b-test-email.html) 」を参照してください。
+コンテンツまたは送信者のテスト方法について詳しくは、[ 製品ドキュメント ](https://experienceleague.adobe.com/docs/campaign-standard/using/communication-channels/email-messages/designing-an-a-b-test-email.html) を参照してください。

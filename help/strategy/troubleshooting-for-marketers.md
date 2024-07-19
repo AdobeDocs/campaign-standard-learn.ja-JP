@@ -19,16 +19,16 @@ ht-degree: 0%
 
 # マーケター向けのトラブルシューティング：ワークフローと配信に関する 5 つの一般的なエラー
 
-基準： [スラジ パトラ](https://www.linkedin.com/in/suraj-p-51612053/){target="_blank"}（米国 Meijer 社シニアコンサルタント）
+著者：[Suraj Patra](https://www.linkedin.com/in/suraj-p-51612053/){target="_blank"}、シニアコンサルタント、Meijer
 
-過去 5 年間、Adobe Experience Cloud製品のシニアエンジニアおよびカスタマーエキスパートとして、でビジネスユーザーを有効にしてきました。 [メイジャー](https://www.meijer.com/){target="_blank"}（1934 年に設立された、ACS を使用した複雑なマーケティングおよびトランザクションキャンペーンを実行するアメリカのスーパーセンターチェーン）。 私が取り組んでいるプロジェクトには、パーソナライゼーションのためのオファーや注文の詳細の保存、Adobe Audience Managerとの統合、セグメント取り込みのためのカスタマーインサイトを行うためのカスタマイズされたキャンペーンなどがあります。
+過去 5 年間にわたり、Adobe Experience Cloudのシニアエンジニアおよびカスタマーエキスパートとして、1934 年に設立されたアメリカのスーパーセンターチェーンである [Meijer](https://www.meijer.com/){target="_blank"} のビジネスユーザーが、ACS で複雑なマーケティングおよびトランザクションキャンペーンを実行できるようにしています。 私が取り組んでいるプロジェクトには、パーソナライゼーションのためのオファーや注文の詳細の保存、Adobe Audience Managerとの統合、セグメント取り込みのためのカスタマーインサイトを行うためのカスタマイズされたキャンペーンなどがあります。
 
 
 ACS を使用している間にエラーが発生しました。これは、解決に時間がかかり、フラストレーションを伴う可能性があります。 最も一般的なエラーを把握することで、問題解決の迅速化と生産性の向上に役立ちます。 同様のエラーが発生した場合に効果的に解決するのに役立つ、トラブルシューティングのヒントを以下に示します。
 
 ## データタイプ不一致エラー
 
-**エラーコード :**
+**エラーコード：**
 `PGS-220000 PostgreSQL error: ERROR: operator does not exist: character varying = bigint`
 
 **原因：**
@@ -42,35 +42,35 @@ ACS を使用している間にエラーが発生しました。これは、解�
 
 ![data-type-mismatch-solution](/help/assets/kt-13256/data-type-mismatch-solution.png)
 
-## 配信パーソナライゼーションエラー
+## 配信Personalization エラー
 
-**エラーコード :**
+**エラーコード：**
 `The schema for profiles specified in the transition ('') is not compatible with the schema defined in the delivery template ('nms:recipient'). They should be identical.`
 
 **原因：**
 このエラーは、メールをアドレスに送信しているとき、メールやその他の識別子がプロファイルと紐付けされない場合に表示されます。 メール通信を送信するには、メールまたは識別子が常にプロファイルにリンクされている必要があります。
 
-![紐付けアクティビティを使用したワークフロー](/help/assets/kt-13256/del-persn-error-wf.png)
+![ 紐付けアクティビティを使用したワークフロー ](/help/assets/kt-13256/del-persn-error-wf.png)
 
 **解決策：**
-読み込んだファイルから、受信者テーブルに共通の ID が存在する必要があります。 この共通キーは、紐付けアクティビティ内の受信者テーブルに読み込みファイルを結合します。 受信者テーブルに存在しないレコードにはメールが送信されない場合があります。この場合、ワークフロー内でこの紐付けステップが必要になります。 その際に、受信した読み込みファイル アクティビティを、プロファイルのメール ID などの識別子と紐付けます。 この `nms:recipient` スキーマはプロファイルテーブルを参照し、受信レコードをプロファイルと紐付けると、メールの準備中に使用できるようになります。
+読み込んだファイルから、受信者テーブルに共通の ID が存在する必要があります。 この共通キーは、紐付けアクティビティ内の受信者テーブルに読み込みファイルを結合します。 受信者テーブルに存在しないレコードにはメールが送信されない場合があります。この場合、ワークフロー内でこの紐付けステップが必要になります。 その際に、受信した読み込みファイル アクティビティを、プロファイルのメール ID などの識別子と紐付けます。 `nms:recipient` スキーマはプロファイルテーブルを参照し、受信レコードをプロファイルと紐付けすると、メールの準備中に使用できるようになります。
 
 以下に示すように、紐付けアクティビティのスクリーンショットを参照します。
 
-![紐付けの詳細を使用したワークフロー](/help/assets/kt-13256/del-persn-error-wf-solution.png)
+![ 紐付けの詳細を使用したワークフロー ](/help/assets/kt-13256/del-persn-error-wf-solution.png)
 
-の詳細情報 [紐付け](https://experienceleague.adobe.com/en/docs/campaign-standard/using/managing-processes-and-data/data-management-activities/reconciliation).
+詳しくは、[ 紐付け ](https://experienceleague.adobe.com/en/docs/campaign-standard/using/managing-processes-and-data/data-management-activities/reconciliation) を参照してください。
 
 ## 共通フィールドデータセットエラー
 
-**エラーコード :**
+**エラーコード：**
 `The document types of inbound events (''and'') are incompatible (step 'Exclusion'). Unable to perform the operation. `
 
 **原因：**
-この問題は、 **除外アクティビティ** acs ワークフローで、ID に基づいて除外を実行する場合、プライマリセットと除外セットが同じフィールド名を持たない場合。
+この問題は、ACS ワークフローで **除外アクティビティ** を使用しているとき、ID に基づいて除外を実行するとき、プライマリセットと除外セットが同じフィールド名を持っていないときに発生します。
 
 
-![共通フィールドデータセットエラー](/help/assets/kt-13256/dataset-error.png)
+![ 共通フィールドデータセットエラー ](/help/assets/kt-13256/dataset-error.png)
 
 **解決策：**
 
@@ -82,20 +82,20 @@ ACS を使用している間にエラーが発生しました。これは、解�
 
 2. JOINS 除外メソッドを使用して、レコードを除外するフィールドを選択します。
 
-![共通フィールドデータセットエラー – ソリューション ](/help/assets/kt-13256/dataset-error-solution.png)
+![ 共通フィールドデータセットエラー – ソリューション ](/help/assets/kt-13256/dataset-error-solution.png)
 
 ## フィールド名のドロップエラー
 
-**エラーコード :**
+**エラーコード：**
 `XTK-170036 Unable to parse expression 'i__name'`
 
 **原因：**
 
-で失敗ポイントが発生する場合があります。 **エンリッチメントアクティビティ**. 最も一般的なものの 1 つを以下に示します。
+エラーポイントは、**エンリッチメントアクティビティ** で発生する場合があります。 最も一般的なものの 1 つを以下に示します。
 
-![フィールド名のドロップエラー](/help/assets/kt-13256/field-name-dropped-error.png)
+![ フィールド名のドロップエラー ](/help/assets/kt-13256/field-name-dropped-error.png)
 
-これは、アクティビティの式名を手動で編集したときに発生します。 この画像は、式が次から変更されたことを示しています `name `対象： `i__name`.
+これは、アクティビティの式名を手動で編集したときに発生します。 この画像は、式が `name ` から `i__name` に変更されたことを示しています。
 
 **解決策：**
 
@@ -103,19 +103,19 @@ ACS を使用している間にエラーが発生しました。これは、解�
 
 1. 名前を元の式に戻します。
 
-2. 新しい名前を使用する場合は、で値を変更します **エンリッチメントアクティビティ**.
+2. 新しい名前を使用する場合は、**エンリッチメントアクティビティ** の値を変更します。
 
 3. 何が変更されたかを覚えていない場合は、アクティビティを再作成することをお勧めします。
 
 ## 一時テーブルの削除エラー 
 
-**エラーコード :**
+**エラーコード：**
 `XTK-170024 The temporary schema "temp:deliveryEmail1" is not defined in the current context.`
 
 **原因：**
 これは、エンリッチメントやその他のアクティビティを含む複雑なワークフローで発生する一般的なエラーです。 ワークフローに対して複数の変更を行う際に、一部のアクティビティワークフローが正しく保存されないことがあります。
 
-![一時テーブルの削除エラー ](/help/assets/kt-13256/temp-table-dropped-error.png)
+![ 一時テーブルの削除エラー ](/help/assets/kt-13256/temp-table-dropped-error.png)
 
 **解決策：**
 このエラーが発生する可能性がある方法は多数あるので、単純な修正はありません。 単純なワークフローの場合は、アクティビティを再設定する方が良いでしょう。 複雑なワークフローでは、ワークフローアクティビティを新しいワークフローにコピーし、保存して再実行する方が効率的です。

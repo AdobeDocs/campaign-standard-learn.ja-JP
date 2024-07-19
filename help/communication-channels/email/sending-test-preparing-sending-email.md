@@ -1,6 +1,6 @@
 ---
 title: テストメールの送信、メール配信の準備、メールの送信
-description: 「テスト用 E メールを送信し、準備して、E メール配信を送信する方法を説明します。 」
+description: テストメールを送信し、メール配信を準備して、送信する方法を説明します。 」
 feature: Email, Test Profiles
 jira: KT-1812
 thumbnail: 24013.jpg
@@ -15,12 +15,12 @@ hide: true
 source-git-commit: 943599bd7ce139ef846f093ebda9084a91550aca
 workflow-type: tm+mt
 source-wordcount: '53'
-ht-degree: 30%
+ht-degree: 33%
 
 ---
 
 # テストメールの送信、メール配信の準備、メールの送信
 
-このビデオでは、Adobe Campaign Standard(ACS) でテスト E メールを送信し、E メール配信を準備して送信する方法を説明します。
+このビデオでは、Adobe Campaign Standard（ACS）でテストメールを送信し、メール配信を準備して送信する方法を説明します。
 
 >[!VIDEO](https://video.tv.adobe.com/v/24013?learn=on){transcript=true}

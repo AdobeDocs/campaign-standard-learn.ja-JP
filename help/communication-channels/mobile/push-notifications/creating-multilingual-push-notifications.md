@@ -13,12 +13,12 @@ level: Beginner
 source-git-commit: 943599bd7ce139ef846f093ebda9084a91550aca
 workflow-type: tm+mt
 source-wordcount: '32'
-ht-degree: 31%
+ht-degree: 37%
 
 ---
 
 # 多言語プッシュ通知の作成
 
-Adobe Campaign Standardで多言語のプッシュ通知を作成する方法を説明します。
+Adobe Campaign Standardで多言語プッシュ通知を作成する方法を説明します。
 
 >[!VIDEO](https://video.tv.adobe.com/v/23304?learn=on){transcript=true}

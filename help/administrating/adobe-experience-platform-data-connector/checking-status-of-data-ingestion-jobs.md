@@ -13,8 +13,8 @@ team: PM
 exl-id: aa0f8abe-0b42-4957-8a82-25521751b7af
 source-git-commit: 943599bd7ce139ef846f093ebda9084a91550aca
 workflow-type: tm+mt
-source-wordcount: '118'
-ht-degree: 22%
+source-wordcount: '94'
+ht-degree: 30%
 
 ---
 
@@ -22,11 +22,11 @@ ht-degree: 22%
 
 >[!NOTE]
 >
->この機能はベータ版で、予告なく頻繁に更新や変更がおこなわれます。
+>この機能はベータ版で、予告なく頻繁に更新や変更が行われる可能性があります。
 >
->次の場所に連絡してください： [!UICONTROL Adobe Customer Support] この機能を実装する予定がある場合は、をクリックします。
+>この機能を実装する予定がある場合は、[!UICONTROL Adobe Customer Support] にお問い合わせください。
 
-データ取り込みジョブのステータスを確認する方法、およびデータがAdobe Campaign StandardからAdobe Experience Platformに取り込まれているかどうかを確認する方法について説明します。
+データ取り込みジョブのステータスを確認する方法、およびデータがAdobe Campaign StandardからAdobe Experience Platformに取り込まれたかどうかを確認する方法について説明します。
 
 >[!VIDEO](https://video.tv.adobe.com/v/27268?learn=on){transcript=true}
 

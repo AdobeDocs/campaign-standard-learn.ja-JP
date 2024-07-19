@@ -1,6 +1,6 @@
 ---
 title: プロファイルの作成
-description: プロファイルを作成し、それをオーディエンスに追加する方法を説明します。
+description: プロファイルを作成してオーディエンスに追加する方法を説明します。
 feature: Profiles, Audiences
 jira: KT-1820
 thumbnail: 25277.jpg
@@ -13,12 +13,12 @@ level: Beginner
 source-git-commit: 943599bd7ce139ef846f093ebda9084a91550aca
 workflow-type: tm+mt
 source-wordcount: '38'
-ht-degree: 7%
+ht-degree: 13%
 
 ---
 
 # プロファイルの作成
 
-このビデオでは、プロファイルを作成する方法と、プロファイルをオーディエンスに追加する方法を説明します。
+このビデオでは、プロファイルを作成し、オーディエンスに追加する方法を説明します。
 
 >[!VIDEO](https://video.tv.adobe.com/v/25277/?learn=on){transcript=true}

@@ -1,6 +1,6 @@
 ---
-title: E メールデザイナーでのモバイル表示の設定
-description: 「モバイル表示用のすべてのスタイルオプションを個別に編集して、E メールのレスポンシブデザインを微調整する方法を説明します。」
+title: メールDesignerでのモバイルビューの設定
+description: モバイル表示用にすべてのスタイルオプションを個別に編集して、メールのレスポンシブデザインを微調整する方法を説明します。
 feature: Email Design
 jira: KT-2423
 thumbnail: 25919.jpg
@@ -13,12 +13,12 @@ level: Beginner
 source-git-commit: 943599bd7ce139ef846f093ebda9084a91550aca
 workflow-type: tm+mt
 source-wordcount: '56'
-ht-degree: 0%
+ht-degree: 3%
 
 ---
 
-# モバイル表示を [!UICONTROL Email Designer] {#configure-the-mobile-view}
+# [!UICONTROL Email Designer] でのモバイル表示の設定 {#configure-the-mobile-view}
 
-このビデオでは、モバイル表示用のすべてのスタイルオプションを個別に編集して、E メールのレスポンシブデザインを微調整する方法を説明します。
+このビデオでは、モバイル表示用にすべてのスタイルオプションを個別に編集して、メールのレスポンシブデザインを微調整する方法を説明します。
 
 >[!VIDEO](https://video.tv.adobe.com/v/25919?learn=on){transcript=true}

@@ -1,6 +1,6 @@
 ---
 title: レポートベースのカスタムプロファイル属性の作成
-description: カスタムプロファイル属性に基づくレポートを作成する方法を説明します。
+description: カスタムプロファイル属性に基づいてレポートを作成する方法を説明します。
 feature: Reporting
 jira: KT-1444
 thumbnail: 28204.jpg
@@ -12,19 +12,19 @@ role: User
 level: Beginner
 source-git-commit: 943599bd7ce139ef846f093ebda9084a91550aca
 workflow-type: tm+mt
-source-wordcount: '89'
-ht-degree: 13%
+source-wordcount: '80'
+ht-degree: 15%
 
 ---
 
 # カスタムプロファイル属性に基づくレポートの作成
 
-Adobe Campaign [!UICONTROL Dynamic Reports] は柔軟なフリーフォーム環境で、カスタムプロファイル属性を含めてデータを調査できます。 任意の組み合わせでディメンション、指標、時間範囲を組み合わせ、分類や比較を無制限に行うことができます。
+Adobe Campaign [!UICONTROL Dynamic Reports] は、カスタムプロファイル属性を含めることでデータを調べることができる、柔軟なフリーフォーム環境です。 ディメンション、指標および時間範囲を、無制限の分類と比較を使用して、任意の組み合わせで組み合わせることができます。
 
-このビデオでは、カスタムプロファイル属性に基づくレポートを作成する方法を説明します。
+このビデオでは、カスタムプロファイル属性に基づいてレポートを作成する方法を説明します。
 
 >[!VIDEO](https://video.tv.adobe.com/v/28204?learn=on){transcript=true}
 
 ## その他のリソース
 
-* [レポートについて](https://experienceleague.adobe.com/docs/campaign-standard/using/reporting/about-reporting/about-dynamic-reports.html?lang=en)
+* [ レポートについて ](https://experienceleague.adobe.com/docs/campaign-standard/using/reporting/about-reporting/about-dynamic-reports.html?lang=en)

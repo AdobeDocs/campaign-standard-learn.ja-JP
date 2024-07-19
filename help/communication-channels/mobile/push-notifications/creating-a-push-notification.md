@@ -13,20 +13,20 @@ level: Beginner
 source-git-commit: 943599bd7ce139ef846f093ebda9084a91550aca
 workflow-type: tm+mt
 source-wordcount: '121'
-ht-degree: 3%
+ht-degree: 4%
 
 ---
 
-# の作成 [!UICONTROL push notification]
+# [!UICONTROL push notification] の作成
 
-を作成する方法を学ぶ [!UICONTROL push notification] Adobe Campaign Standard(ACS) 内：
+Adobe Campaign Standard（ACS）で [!UICONTROL push notification] を作成する方法を説明します。
 
-Adobe Campaignでは、パーソナライズおよびセグメント化されたを送信できます [!UICONTROL push notifications] をiOSおよび Android™モバイルデバイスに追加します。 次の 2 つのオプションがあります。
+Adobe Campaignを使用すると、パーソナライズされセグメント化された [!UICONTROL push notifications] をiOSやAndroid™ のモバイルデバイスに送信できます。 次の 2 つのオプションがあります。
 
-* **[!UICONTROL Send push notification to Campaign profiles]**：モバイルアプリケーションを購読し、受信をオプトインしたAdobe Campaign CRM プロファイルをターゲットにできます [!UICONTROL push notifications]. パーソナライゼーションフィールドを [!UICONTROL push notification]（受信者の名など）
+* **[!UICONTROL Send push notification to Campaign profiles]**：モバイルアプリケーションを購読し、[!UICONTROL push notifications] 信の受信をオプトインしたAdobe Campaign CRM プロファイルをターゲットにすることができます。 受信者の名など、[!UICONTROL push notification] 信者にパーソナライゼーションフィールドを挿入できます。
 
-* **[!UICONTROL Send push notification to app subscribers]**: [!UICONTROL push notification] アプリケーションからの通知の受信をオプトインした、既知のおよび匿名のモバイルアプリケーションユーザー全員に送信できます。 モバイルアプリケーションから収集したデータを使用して、これらのメッセージをパーソナライズできます。
+* **[!UICONTROL Send push notification to app subscribers]**: アプリケーションから通知を受信することをオプトインしたすべての既知のモバイルアプリケーションユーザーおよび匿名モバイルアプリケーションユーザーに [!UICONTROL push notification] ールを送信できます。 モバイルアプリケーションから収集したデータを使用して、これらのメッセージをパーソナライズできます。
 
-このビデオでは、 [!DNL push notification to app subscribers].
+ビデオでは、[!DNL push notification to app subscribers] ールの送信方法を説明しています。
 
 >[!VIDEO](https://video.tv.adobe.com/v/31499?learn=on){transcript=true}

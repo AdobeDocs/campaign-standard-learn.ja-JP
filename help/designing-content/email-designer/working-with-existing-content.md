@@ -1,6 +1,6 @@
 ---
 title: 既存コンテンツの操作
-description: Web サイトからクリエイティブコンテンツを取得し、E メールデザイナーに読み込む方法を説明します。
+description: クリエイティブコンテンツを web サイトから取得し、メールDesignerに読み込む方法を説明します。
 feature: Email Design
 jira: KT-6295
 thumbnail: 25926.jpg
@@ -12,8 +12,8 @@ role: User, Developer
 level: Beginner
 source-git-commit: 943599bd7ce139ef846f093ebda9084a91550aca
 workflow-type: tm+mt
-source-wordcount: '105'
-ht-degree: 7%
+source-wordcount: '96'
+ht-degree: 10%
 
 ---
 
@@ -21,14 +21,14 @@ ht-degree: 7%
 
 ## URL からのコンテンツの読み込み
 
-Web サイトからクリエイティブコンテンツを取得し、E メールデザイナーに読み込む方法を説明します。
+クリエイティブコンテンツを web サイトから取得し、メールDesignerに読み込む方法を説明します。
 
 >[!VIDEO](https://video.tv.adobe.com/v/25926?learn=on){transcript=true}
 
-## 既存のHTMLコンテンツとの互換性を持たせる {#making-existing-html-content-compatible}
+## 既存のHTMLコンテンツへの互換性の付与 {#making-existing-html-content-compatible}
 
-E メールデザイナーには特定のタグ付けが必要です。Adobe Campaignにアップロードされる標準のHTMLコンテンツを完全に互換性と編集可能にするには、このタグを適用する必要があります。
+電子メールDesignerには固有のタグが必要です。このタグを適用して、Adobe Campaignにアップロードされた標準のHTMLコンテンツとの互換性を完全に保ち、編集できるようにする必要があります。
 
-詳細なドキュメントは、次のリンクの下にあります。
+詳細なドキュメントは、次のリンクにあります。
 
-[HTMLコンテンツの E メールデザイナーテンプレートへの変換](https://experienceleague.adobe.com/docs/campaign-standard/using/designing-content/building-email-content/using-existing-content.html?lang=en)
+[HTMLコンテンツの電子メールDesignerテンプレートへの変換 ](https://experienceleague.adobe.com/docs/campaign-standard/using/designing-content/building-email-content/using-existing-content.html?lang=en)

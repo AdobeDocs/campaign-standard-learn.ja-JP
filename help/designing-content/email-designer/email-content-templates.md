@@ -1,6 +1,6 @@
 ---
 title: メールコンテンツテンプレートの概要
-description: E メールコンテンツテンプレートを作成する方法を説明します。
+description: メールコンテンツテンプレートの作成方法を説明します。
 feature: Email Design
 jira: KT-1442
 thumbnail: 23106.jpg
@@ -12,15 +12,15 @@ role: User, Developer
 level: Beginner
 source-git-commit: 943599bd7ce139ef846f093ebda9084a91550aca
 workflow-type: tm+mt
-source-wordcount: '71'
-ht-degree: 14%
+source-wordcount: '72'
+ht-degree: 16%
 
 ---
 
 # メールコンテンツテンプレートの概要 {#introduction-to-the-email-content-templates}
 
-Adobe Campaign Standardは、完全にカスタマイズ可能な、すぐに使用できるレスポンシブ E メールテンプレートを提供します。 これらのテンプレートは、Adobe Campaign Standard専用に作成されており、操作や変更が容易です。 E メールを作成するための出発点として優れています。
+Adobe Campaign Standardでは、すぐに使える 18 個のレスポンシブなカスタムメールテンプレートを用意しています。 これらのテンプレートは、Adobe Campaign Standard専用に作成されており、操作や変更が簡単です。 メール作成の出発点として最適です。
 
-このビデオでは、テンプレートを紹介し、独自のテンプレートの作成方法を説明します。
+このビデオでは、テンプレートの概要と、独自のテンプレートを作成する方法について説明します。
 
 >[!VIDEO](https://video.tv.adobe.com/v/23106?learn=on){transcript=true}

@@ -12,23 +12,23 @@ role: User
 level: Beginner
 source-git-commit: 943599bd7ce139ef846f093ebda9084a91550aca
 workflow-type: tm+mt
-source-wordcount: '113'
-ht-degree: 0%
+source-wordcount: '106'
+ht-degree: 1%
 
 ---
 
-# の作成 [!UICONTROL Direct Mail] {#create-a-direct-mail}
+# [!UICONTROL Direct Mail] の作成 {#create-a-direct-mail}
 
-The [!UICONTROL Direct Mail] 「チャネル」では、エージェンシーに送信したり SFTP サーバーにアップロードしたりする受信者のセグメント化リストを抽出できます。
+[!UICONTROL Direct Mail] チャネルを使用すると、エージェンシーに送信される、または SFTP サーバーにアップロードされる受信者のセグメント化されたリストを抽出できます。
 
-このビデオでは、 [!UICONTROL Direct Mail] 配信と、プロファイルを [!UICONTROL Direct Mail] 配信。
+このビデオでは、[!UICONTROL Direct Mail] 配信の設定方法と、[!UICONTROL Direct Mail] 配信にプロファイルを追加できるようにするために必要な設定について説明します。
 
 >[!VIDEO](https://video.tv.adobe.com/v/23417?learn=on){transcript=true}
 
-## の作成 [!UICONTROL Direct Mail] ワークフロー内
+## ワークフロー内での [!UICONTROL Direct Mail] の作成
 
-チャネルは、ホームページから、またワークフロービュー内で使用して、まとまったクロスチャネルマーケティング戦略を定義できます。 以下のサンプルのワークフローには、 [!UICONTROL Direct Mail activity].
+チャネルは、ホームページとワークフロービュー内から使用でき、まとまりのあるクロスチャネルマーケティング戦略を定義できます。 次のサンプルワークフローには [!UICONTROL Direct Mail activity] が含まれています。
 
-![ワークフロー画像](/help/assets/direct_mail_examplewf.png)
+![ ワークフロー画像 ](/help/assets/direct_mail_examplewf.png)
 
-詳しくは、製品ドキュメントを参照してください [ダイレクトメールについて](https://experienceleague.adobe.com/docs/campaign-standard/using/communication-channels/direct-mail/about-direct-mail.html)
+詳しくは、製品ドキュメント [ ダイレクトメールについて ](https://experienceleague.adobe.com/docs/campaign-standard/using/communication-channels/direct-mail/about-direct-mail.html) を参照してください

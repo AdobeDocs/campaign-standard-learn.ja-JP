@@ -13,13 +13,13 @@ level: Beginner
 source-git-commit: 943599bd7ce139ef846f093ebda9084a91550aca
 workflow-type: tm+mt
 source-wordcount: '75'
-ht-degree: 20%
+ht-degree: 22%
 
 ---
 
 # SMS 配信を作成{#creating-a-sms-delivery}
 
-Adobe Campaign Standardで SMS 配信を作成する方法を説明します。 「 SMS 配信」アクティビティを使用して、ワークフローでの SMS の送信を設定することもできます。
+Adobe Campaign Standardで SMS 配信を作成する方法を説明します。 SMS 配信アクティビティを使用して、ワークフローで SMS の送信を設定することもできます。
 
 SMS 配信アクティビティは、SMS の送信を自動化するために使用されます。 このアクティビティの設定は、ビデオで説明している 1 回限りの配信の設定と同じです。
 

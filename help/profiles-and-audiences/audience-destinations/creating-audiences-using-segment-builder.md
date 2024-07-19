@@ -1,6 +1,6 @@
 ---
 title: 統合セグメントビルダーを使用したオーディエンスの作成
-description: 統合セグメントビルダーを使用してオーディエンスを作成する方法を説明します
+description: 統合セグメントビルダーを使用したオーディエンスの作成方法を説明します
 feature: People Core Service Integration
 jira: KT-2754
 thumbnail: 27638.jpg
@@ -14,8 +14,8 @@ hide: true
 hidefromtoc: true
 source-git-commit: ecd7ab2e03c38d17f2690161e19120d884c89993
 workflow-type: tm+mt
-source-wordcount: '169'
-ht-degree: 9%
+source-wordcount: '162'
+ht-degree: 11%
 
 ---
 
@@ -23,16 +23,16 @@ ht-degree: 9%
 
 >[!NOTE]
 >
->この機能はベータ版で、予告なく頻繁に更新や変更がおこなわれます。 [!UICONTROL Audience Destinations] はAdobe Experience Platformに基づいており、特定の設定が必要です。
+>この機能はベータ版で、予告なく頻繁に更新や変更が行われる可能性があります。 [!UICONTROL Audience Destinations] はAdobe Experience Platformに基づいており、特別な設定が必要です。
 >
->次の場所に連絡してください： [!UICONTROL Adobe Customer Support] この機能を実装する予定がある場合は、をクリックします。
+>この機能を実装する予定がある場合は、[!UICONTROL Adobe Customer Support] にお問い合わせください。
 
-Adobe Campaign Standardでは、Adobe Experience Cloudのデータを使用してオーディエンスを構築できます [リアルタイム顧客プロファイル](https://experienceleague.adobe.com/docs/platform-learn/tutorials/profiles/understanding-the-real-time-customer-profile.html?lang=en) Adobe Experience Platform [!UICONTROL Unified Segment Builder].
+Adobe Campaign Standardでは、Adobe Experience Platform [!UICONTROL Unified Segment Builder] を使用して、Adobe Experience Cloud[ リアルタイム顧客プロファイル ](https://experienceleague.adobe.com/docs/platform-learn/tutorials/profiles/understanding-the-real-time-customer-profile.html?lang=en) のデータを使用してオーディエンスを構築できます。
 
-次にアクセス： [!UICONTROL Unified Segment Builder] 経由でAdobe Campaign Standard内に直接 [!UICONTROL Audiences] モジュール。 これにより、 [!UICONTROL Audiences] リスト表示。Adobe Campaignインターフェイスから直接Adobe Experience Platformオーディエンスを編集または作成できます。
+[!UICONTROL Audiences] モジュールを介してAdobe Campaign Standard内の [!UICONTROL Unified Segment Builder] に直接アクセスできます。 これにより、これらのオーディエンスを [!UICONTROL Audiences] リスト表示で直接管理でき、Adobe Campaign インターフェイスから直接Adobe Experience Platform オーディエンスを編集または作成できます
 
-次のビデオでは、 [!UICONTROL Unified Segment Builder] Adobe Campaign Standardの
+次のビデオでは、Adobe Campaign Standard内で [!UICONTROL Unified Segment Builder] を使用して新しいオーディエンスを作成する方法を説明します。
 
 >[!VIDEO](https://video.tv.adobe.com/v/27638?learn=on){transcript=true}
 
-*統合セグメントビルダーを使用してAdobe Campaign Standardでオーディエンスを作成する方法（最小値 02:47）*
+*統合セグメントビルダーを使用してAdobe Campaign Standardでオーディエンスを作成する方法（分 2 時 47 分）*

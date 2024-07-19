@@ -1,6 +1,6 @@
 ---
 title: メール配信の作成
-description: メール配信を作成する方法を学ぶ ホームページから。
+description: ホームページからメール配信を作成する方法について学習します。
 feature: Email
 jira: KT-1807
 thumbnail: 23721.jpg
@@ -13,13 +13,13 @@ level: Beginner
 source-git-commit: 943599bd7ce139ef846f093ebda9084a91550aca
 workflow-type: tm+mt
 source-wordcount: '63'
-ht-degree: 39%
+ht-degree: 47%
 
 ---
 
 # メール配信の作成 {#create-an-email-delivery}
 
-スタンドアロンの E メール配信は、キャンペーン、Adobe Campaignホームページ、または [!UICONTROL Marketing Activity] リスト。 また、ワークフローから単一送信 E メールや定期的な E メールを作成して送信することもできます。
+スタンドアロンのメール配信は、キャンペーン、Adobe Campaignのホームページまたは [!UICONTROL Marketing Activity] リストから作成できます。 また、ワークフローから 1 回送信や繰り返しのメールを作成して送信することもできます。
 
 ホームページからメール配信を作成する方法について学習します。
 

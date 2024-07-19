@@ -1,6 +1,6 @@
 ---
 title: ワークフローでのプロファイルの読み込み
-description: ワークフローを使用してプロファイルデータをインポートする方法を説明します。
+description: ワークフローを使用してプロファイルデータを読み込む方法を説明します。
 feature: Data Management
 jira: KT-1818
 thumbnail: 24993.jpg
@@ -13,14 +13,14 @@ level: Beginner
 source-git-commit: 943599bd7ce139ef846f093ebda9084a91550aca
 workflow-type: tm+mt
 source-wordcount: '56'
-ht-degree: 17%
+ht-degree: 21%
 
 ---
 
 # ワークフローでのプロファイルの読み込み{#import-profiles-with-a-workflow}
 
-ファイルからデータを収集して処理したり、Adobe Campaignデータベースに読み込んだりできます。
+ファイルからデータを収集して処理したり、Adobe Campaign データベースに読み込んだりすることができます。
 
-このビデオでは、 [!UICONTROL Data Management] アクティビティを作成し、プロファイルデータをインポートします。
+このビデオでは、ワークフローで [!UICONTROL Data Management] アクティビティを使用して、プロファイルデータを読み込む方法を説明します。
 
 >[!VIDEO](https://video.tv.adobe.com/v/24993?learn=on){transcript=true}

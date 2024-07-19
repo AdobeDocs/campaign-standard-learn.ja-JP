@@ -1,6 +1,6 @@
 ---
 title: Adobe Experience Platform SDK を使用したモバイルアプリケーションの設定
-description: Adobe Experience Platform Launchでモバイルアプリを設定する方法と、Adobe Campaignでモバイルアプリを設定する方法について説明します。
+description: Adobe Experience Platform Launchでモバイルアプリを設定する方法とAdobe Campaignで設定する方法について説明します。
 feature: In App, Push, Channel Configuration, Mobile SDK Integration
 jira: KT-2501
 thumbnail: 26224.jpg
@@ -12,20 +12,20 @@ role: Admin
 level: Experienced
 source-git-commit: 943599bd7ce139ef846f093ebda9084a91550aca
 workflow-type: tm+mt
-source-wordcount: '104'
-ht-degree: 8%
+source-wordcount: '95'
+ht-degree: 11%
 
 ---
 
 
-# を使用してモバイルアプリを設定する [!UICONTROL Adobe Experience Platform SDK]
+# [!UICONTROL Adobe Experience Platform SDK] を使用したモバイルアプリケーションの設定
 
-アプリ内メッセージを送信するには、以下を実行します。 [!UICONTROL push notifications] Mobile SDK V5 を使用する場合、モバイルアプリケーションは [!UICONTROL Adobe Experience Platform Launch] Adobe Campaignで設定されます。
+Mobile SDK V5 を使用してアプリ内メッセージまたは [!UICONTROL push notifications] 信を送信するには、モバイルアプリを [!UICONTROL Adobe Experience Platform Launch] で設定し、Adobe Campaignで設定する必要があります。
 
-以下のビデオでは、モバイルアプリを設定するために必要な手順をExperience Platform Launchします。
+次のビデオでは、Experience Platform Launchでモバイルアプリを設定するために必要な手順を示します。
 
 >[!VIDEO](https://video.tv.adobe.com/v/26224?learn=on){transcript=true}
 
 >[!NOTE]
 >
->詳しくは、 [でのアプリケーションの設定 [!UICONTROL Launch]](https://experienceleague.adobe.com/docs/campaign-standard/using/administrating/configuring-channels/configuring-a-mobile-application.html?lang=en) 詳細なドキュメントとビデオで使用されているコードテンプレートについて説明します。
+>ビデオで使用されている詳細なドキュメントとコードテンプレートについては、[[!UICONTROL Launch]](https://experienceleague.adobe.com/docs/campaign-standard/using/administrating/configuring-channels/configuring-a-mobile-application.html?lang=en) でのアプリケーションの設定」を参照してください。

@@ -13,7 +13,7 @@ level: Beginner
 source-git-commit: 943599bd7ce139ef846f093ebda9084a91550aca
 workflow-type: tm+mt
 source-wordcount: '71'
-ht-degree: 36%
+ht-degree: 39%
 
 ---
 
@@ -24,8 +24,8 @@ Adobe Campaignには次の 2 つのタイプのプロファイルがあります
 * 識別されたプロファイル
 * テストプロファイル
 
-1 つまたは複数の共通の条件に従ってグループ化されたプロファイルを、 **audiences**.
+1 つまたは複数の共通条件に従ってグループ化されたプロファイルは、**オーディエンス** と呼ばれます。
 
-このビデオでは、既存のプロファイルに移動する方法と、Adobe Campaign Standardでプロファイルとオーディエンスを作成する方法を説明します。
+このビデオでは、既存のプロファイルに移動する方法と、Adobe Campaign Standardでプロファイルとオーディエンスを作成する方法について説明します。
 
 >[!VIDEO](https://video.tv.adobe.com/v/18463/?learn=on){transcript=true}

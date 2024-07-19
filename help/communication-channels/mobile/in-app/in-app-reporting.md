@@ -1,6 +1,6 @@
 ---
 title: アプリ内配信のレポート
-description: モバイルアプリケーション内での顧客のリアルタイム動作に応じて、コンテキスト上関連のアプリ内メッセージをユーザーに表示する方法を説明します。
+description: モバイルアプリケーション内での顧客のリアルタイム行動に応じて、文脈的に関連するアプリ内メッセージをユーザーに表示する方法を説明します。
 feature: In App, Reporting
 jira: KT-2558
 thumbnail: 26412.jpg
@@ -13,12 +13,12 @@ level: Beginner, Intermediate
 source-git-commit: 943599bd7ce139ef846f093ebda9084a91550aca
 workflow-type: tm+mt
 source-wordcount: '55'
-ht-degree: 9%
+ht-degree: 12%
 
 ---
 
-# レポート対象： [!UICONTROL In-App] 配信 {#in-app-message-reporting}
+# [!UICONTROL In-App] 配信のレポート {#in-app-message-reporting}
 
-モバイルアプリケーション内での顧客のリアルタイム動作に応じて、コンテキスト上関連のアプリ内メッセージをユーザーに表示する方法を説明します。
+モバイルアプリケーション内での顧客のリアルタイム行動に応じて、文脈的に関連するアプリ内メッセージをユーザーに表示する方法を説明します。
 
 >[!VIDEO](https://video.tv.adobe.com/v/26412?learn=on){transcript=true}

@@ -1,6 +1,6 @@
 ---
 title: エクスペリエンスイベントのマッピング
-description: Adobe Experience Platform(AEP) でエクスペリエンスイベントをマッピングする方法を説明します。
+description: Adobe Experience Platform（AEP）でエクスペリエンスイベントをマッピングする方法を説明します
 feature: People Core Service Integration
 jira: KT-2832
 thumbnail: 27265.jpg
@@ -12,8 +12,8 @@ team: TM
 exl-id: 45c4e120-99c7-495d-aa71-3b4f223cc120
 source-git-commit: 943599bd7ce139ef846f093ebda9084a91550aca
 workflow-type: tm+mt
-source-wordcount: '76'
-ht-degree: 13%
+source-wordcount: '60'
+ht-degree: 18%
 
 ---
 
@@ -21,11 +21,11 @@ ht-degree: 13%
 
 >[!NOTE]
 >
->この機能は現在ベータ版で、予告なく頻繁に更新および変更される可能性があります。
+>この機能は現在ベータ版で、予告なく頻繁に更新や変更が行われる可能性があります。
 >
->次の場所に連絡してください： [!UICONTROL Adobe Customer Support] この機能を実装する予定がある場合は、をクリックします。
+>この機能を実装する予定がある場合は、[!UICONTROL Adobe Customer Support] にお問い合わせください。
 
-マッピング方法を学ぶ [!UICONTROL Experience Events] (Adobe Experience Platform(AEP) 内 )
+Adobe Experience Platform（AEP）で [!UICONTROL Experience Events] をマッピングする方法について説明します。
 
 >[!VIDEO](https://video.tv.adobe.com/v/27265?learn=on){transcript=true}
 

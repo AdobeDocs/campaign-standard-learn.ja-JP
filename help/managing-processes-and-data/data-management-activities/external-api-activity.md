@@ -1,6 +1,6 @@
 ---
 title: 外部 API アクティビティを使用したワークフローの設定と実行
-description: 外部 REST API エンドポイントを呼び出して、パーソナライゼーションデータをサードパーティシステムから Campaign に取り込む方法を説明します。
+description: 外部 REST API エンドポイントを呼び出して、サードパーティシステムからキャンペーンにパーソナライゼーションデータを取り込む方法を説明します。
 feature: Data Management Activity
 jira: KT-2764
 thumbnail: 28200.jpg
@@ -12,14 +12,14 @@ role: User, Developer
 level: Experienced
 source-git-commit: 943599bd7ce139ef846f093ebda9084a91550aca
 workflow-type: tm+mt
-source-wordcount: '161'
-ht-degree: 48%
+source-wordcount: '162'
+ht-degree: 50%
 
 ---
 
 # [!UICONTROL External API activity] を使用したワークフローの設定と実行
 
-[!UICONTROL External API activity] は [!UICONTROL Data Management activity] の 1 つです。外部の REST API エンドポイントを呼び出すことができます。このアクティビティの目的は、パーソナライゼーションデータをサードパーティシステムから Campaign に取り込むことです。
+[!UICONTROL External API activity] は [!UICONTROL Data Management activity] の 1 つです。外部の REST API エンドポイントを呼び出すことができます。このアクティビティの目的は、パーソナライゼーションデータをサードパーティのシステムからキャンペーンに取り込むことです。
 
 使用例を次に示します。
 
@@ -36,4 +36,4 @@ ht-degree: 48%
 
 >[!NOTE]
 >
->「 」アクティビティは、キャンペーン全体のデータを取得するためのもので、大量のデータが転送される可能性がある各プロファイルの特定の情報を取得するためのものではありません。 ユースケースでプロファイル固有の情報が必要な場合は、「ファイル転送」アクティビティを使用することをお勧めします。
+>アクティビティは、大量のデータが転送される可能性があるので、各プロファイルの特定の情報を取得するためではなく、キャンペーン全体のデータを取得するためのものです。 ユースケースでプロファイル固有の情報が必要な場合は、ファイル転送アクティビティを使用することをお勧めします。
