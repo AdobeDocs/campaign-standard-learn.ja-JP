@@ -32,5 +32,5 @@ ht-degree: 2%
 
 ## その他のリソース
 
-* [ プッシュ通知に関する詳細なドキュメント ](https://experienceleague.adobe.com/docs/campaign-standard/using/communication-channels/push-notifications/about-push-notifications.html?lang=en)
+* [ プッシュ通知に関する詳細なドキュメント ](https://experienceleague.adobe.com/docs/campaign-standard/using/communication-channels/push-notifications/about-push-notifications.html?lang=ja)
 * [プッシュ通知の作成（ビデオ）](/help/communication-channels/mobile/push-notifications/creating-a-push-notification.md)

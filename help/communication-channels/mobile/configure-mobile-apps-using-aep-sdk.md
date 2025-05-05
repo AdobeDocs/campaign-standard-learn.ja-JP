@@ -28,4 +28,4 @@ Mobile SDK V5 を使用してアプリ内メッセージまたは [!UICONTROL pu
 
 >[!NOTE]
 >
->ビデオで使用されている詳細なドキュメントとコードテンプレートについては、[[!UICONTROL Launch]](https://experienceleague.adobe.com/docs/campaign-standard/using/administrating/configuring-channels/configuring-a-mobile-application.html?lang=en) でのアプリケーションの設定」を参照してください。
+>ビデオで使用されている詳細なドキュメントとコードテンプレートについては、[[!UICONTROL Launch]](https://experienceleague.adobe.com/docs/campaign-standard/using/administrating/configuring-channels/configuring-a-mobile-application.html?lang=ja) でのアプリケーションの設定」を参照してください。

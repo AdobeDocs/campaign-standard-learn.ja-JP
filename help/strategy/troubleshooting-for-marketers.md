@@ -58,7 +58,7 @@ ACS を使用している間にエラーが発生しました。これは、解�
 
 ![ 紐付けの詳細を使用したワークフロー ](/help/assets/kt-13256/del-persn-error-wf-solution.png)
 
-詳しくは、[ 紐付け ](https://experienceleague.adobe.com/en/docs/campaign-standard/using/managing-processes-and-data/data-management-activities/reconciliation) を参照してください。
+詳しくは、[ 紐付け ](https://experienceleague.adobe.com/ja/docs/campaign-standard/using/managing-processes-and-data/data-management-activities/reconciliation) を参照してください。
 
 ## 共通フィールドデータセットエラー
 

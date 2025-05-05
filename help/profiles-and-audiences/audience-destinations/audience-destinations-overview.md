@@ -30,7 +30,7 @@ ht-degree: 6%
 >この機能を実装する予定がある場合は、[!UICONTROL Adobe Customer Support] にお問い合わせください。
 >
 
-Adobe Campaign Standard内のオーディエンスモジュールを使用すると、Adobe Experience Platform [[!DNL Real-Time Customer Profile]](https://experienceleague.adobe.com/docs/platform-learn/tutorials/profiles/understanding-the-real-time-customer-profile.html?lang=en) のデータを使用してセグメントを作成できます。
+Adobe Campaign Standard内のオーディエンスモジュールを使用すると、Adobe Experience Platform [[!DNL Real-Time Customer Profile]](https://experienceleague.adobe.com/docs/platform-learn/tutorials/profiles/understanding-the-real-time-customer-profile.html?lang=ja) のデータを使用してセグメントを作成できます。
 
 次のビデオチュートリアルでは、様々な手順を順を追って説明します。
 

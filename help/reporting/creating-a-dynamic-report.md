@@ -27,4 +27,4 @@ Adobe Campaign [!UICONTROL Dynamic Reports] は、データを調査できる柔
 
 ## その他のリソース
 
-* [ レポートについて ](https://experienceleague.adobe.com/docs/campaign-standard/using/reporting/about-reporting/about-dynamic-reports.html?lang=en)
+* [ レポートについて ](https://experienceleague.adobe.com/docs/campaign-standard/using/reporting/about-reporting/about-dynamic-reports.html?lang=ja)

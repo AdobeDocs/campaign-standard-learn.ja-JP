@@ -31,4 +31,4 @@ ht-degree: 1%
 
 ![ ワークフロー画像 ](/help/assets/direct_mail_examplewf.png)
 
-詳しくは、製品ドキュメント [ ダイレクトメールについて ](https://experienceleague.adobe.com/docs/campaign-standard/using/communication-channels/direct-mail/about-direct-mail.html) を参照してください
+詳しくは、製品ドキュメント [ ダイレクトメールについて ](https://experienceleague.adobe.com/docs/campaign-standard/using/communication-channels/direct-mail/about-direct-mail.html?lang=ja) を参照してください
