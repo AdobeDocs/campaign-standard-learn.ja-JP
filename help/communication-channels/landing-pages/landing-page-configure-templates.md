@@ -22,4 +22,4 @@ ht-degree: 29%
 
 このビデオでは、[!UICONTROL landing page] テンプレートの設定方法を説明します。
 
->[!VIDEO](https://video.tv.adobe.com/v/25200/?learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/328374/?learn=on&captions=jpn){transcript=true}

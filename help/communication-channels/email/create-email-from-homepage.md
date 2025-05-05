@@ -23,4 +23,4 @@ ht-degree: 47%
 
 ホームページからメール配信を作成する方法について学習します。
 
->[!VIDEO](https://video.tv.adobe.com/v/23721?learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/29751?learn=on&captions=jpn){transcript=true}

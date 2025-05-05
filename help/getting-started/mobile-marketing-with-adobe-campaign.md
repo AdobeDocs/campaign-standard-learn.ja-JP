@@ -21,4 +21,4 @@ ht-degree: 100%
 
 このビデオでは、モバイルマーケティング戦略をサポートできる Adobe Campaign Standard 機能を説明します。
 
->[!VIDEO](https://video.tv.adobe.com/v/29468?learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/35084?learn=on&captions=jpn){transcript=true}

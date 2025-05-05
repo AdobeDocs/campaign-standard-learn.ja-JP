@@ -27,6 +27,6 @@ ht-degree: 6%
 
 Adobe Campaign StandardとAdobe Experience Platform間で様々なデータタイプをマッピングする方法について説明します。
 
->[!VIDEO](https://video.tv.adobe.com/v/27231?learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/34382?learn=on&captions=jpn){transcript=true}
 
 [ マッピング定義 ](https://experienceleague.adobe.com/docs/campaign-standard/using/integrating-with-adobe-cloud/adobe-experience-platform/data-connector/aep-mapping-definition.html?lang=ja) について詳しくは、製品ドキュメントを参照してください。

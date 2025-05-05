@@ -21,4 +21,4 @@ ht-degree: 100%
 
 このビデオでは、Adobe Campaign Standard のレポート機能の概要を説明します。
 
->[!VIDEO](https://video.tv.adobe.com/v/29461?learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/35085?learn=on&captions=jpn){transcript=true}

@@ -24,4 +24,4 @@ ht-degree: 1%
 
 外部システムからパラメーターを受け取る [!UICONTROL External Signal activity] ークフローの設定方法**外部パラメーターを使用したワークフローのカスタマイズ方法、外部パラメーターを使用したワークフローの呼び出しを行う終了アクティビティの設定方法を説明します
 
->[!VIDEO](https://video.tv.adobe.com/v/27249/?learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/34389/?learn=on&captions=jpn){transcript=true}

@@ -21,7 +21,7 @@ ht-degree: 19%
 
 Adobe Campaignを使用すると、ランディングページを作成できます。ランディングページは、オーディエンスに関する情報の取得、サービスの購読の提供、データの表示、データベースの拡張に使用できるオンラインフォームです。 ランディングページは、既存のプロファイルの取得や更新にも使用できます。
 
->[!VIDEO](https://video.tv.adobe.com/v/24093?learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/36316?learn=on&captions=jpn){transcript=true}
 
 ## その他のリソース
 

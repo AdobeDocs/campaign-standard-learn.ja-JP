@@ -23,4 +23,4 @@ Adobe Campaign Standardで SMS 配信を作成する方法を説明します。 
 
 SMS 配信アクティビティは、SMS の送信を自動化するために使用されます。 このアクティビティの設定は、ビデオで説明している 1 回限りの配信の設定と同じです。
 
->[!VIDEO](https://video.tv.adobe.com/v/25265/?learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/328377/?learn=on&captions=jpn){transcript=true}

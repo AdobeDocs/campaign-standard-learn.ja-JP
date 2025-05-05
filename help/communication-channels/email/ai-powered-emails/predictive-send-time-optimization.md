@@ -28,6 +28,6 @@ ht-degree: 100%
 
 Adobe Campaign とジャーニー AI モデルの間でデータを同期するために必要なワークフローを理解します。個々のプロファイルレベルで送信時間スコアを表示する方法、および送信時間の数式を使用してメール配信を実行する方法について説明します。
 
->[!VIDEO](https://video.tv.adobe.com/v/40469?learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/328462?learn=on&captions=jpn){transcript=true}
 
 [AI を利用したメールによる設計と配信の最適化](https://experienceleague.adobe.com/docs/campaign-standard/using/testing-and-sending/preparing-and-testing-messages/predictive.html?lang=ja)について詳しくは、製品ドキュメントを参照してください

@@ -17,4 +17,4 @@ ht-degree: 100%
 
 復号化されたイベント ID と配信 ID を Campaign Standard で取得する方法を説明します。
 
->[!VIDEO](https://video.tv.adobe.com/v/335989?learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3437888?learn=on&captions=jpn){transcript=true}

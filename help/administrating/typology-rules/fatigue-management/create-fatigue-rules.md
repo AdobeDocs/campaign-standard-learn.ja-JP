@@ -22,7 +22,7 @@ ht-degree: 28%
 マーケター [!UICONTROL Fatigue rules]、過剰に配信を受けているプロファイルをキャンペーンから自動的に除外するグローバルなクロスチャネルビジネスルールを設定できます。
 [!UICONTROL fatigue rules] を作成するには、プロファイルごとの最大メッセージ数を定義し、ルールを適用する期間を選択する必要があります。 配信の準備中に、既に配信が最大数を超えているプロファイルはメッセージから除外されます。
 
->[!VIDEO](https://video.tv.adobe.com/v/28450?learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/35431?learn=on&captions=jpn){transcript=true}
 
 *[!UICONTROL fatigue rule] の作成方法（4 分 49 秒）*
 

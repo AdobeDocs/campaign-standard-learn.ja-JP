@@ -21,4 +21,4 @@ ht-degree: 13%
 
 どのユーザーがアプリ内メッセージでアクショントリガーを開始したかを理解し、これらのイベントを設定する方法を説明します。
 
->[!VIDEO](https://video.tv.adobe.com/v/26245?learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/40910?learn=on&captions=jpn){transcript=true}

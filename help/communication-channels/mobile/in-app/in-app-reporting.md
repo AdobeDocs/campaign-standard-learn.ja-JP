@@ -21,4 +21,4 @@ ht-degree: 12%
 
 モバイルアプリケーション内での顧客のリアルタイム行動に応じて、文脈的に関連するアプリ内メッセージをユーザーに表示する方法を説明します。
 
->[!VIDEO](https://video.tv.adobe.com/v/26412?learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/35059?learn=on&captions=jpn){transcript=true}

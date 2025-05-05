@@ -20,4 +20,4 @@ ht-degree: 100%
 
 最終的な受信者に送信する前に、メールメッセージをテストする方法を説明します。
 
->[!VIDEO](https://video.tv.adobe.com/v/3416038/?learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3446216/?learn=on&captions=jpn){transcript=true}

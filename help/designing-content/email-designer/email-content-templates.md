@@ -23,4 +23,4 @@ Adobe Campaign Standardでは、すぐに使える 18 個のレスポンシブ�
 
 このビデオでは、テンプレートの概要と、独自のテンプレートを作成する方法について説明します。
 
->[!VIDEO](https://video.tv.adobe.com/v/23106?learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/37616?learn=on&captions=jpn){transcript=true}

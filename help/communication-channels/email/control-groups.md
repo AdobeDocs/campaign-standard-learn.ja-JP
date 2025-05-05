@@ -25,4 +25,4 @@ ht-degree: 100%
 
 [!UICONTROL delivery] の [!UICONTROL control group] を定義する方法と、[!UICONTROL delivery] の送信後に [!UICONTROL control group] に割り当てられたプロファイルを抽出する方法を説明します。
 
->[!VIDEO](https://video.tv.adobe.com/v/40684?learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/328542?learn=on&captions=jpn){transcript=true}

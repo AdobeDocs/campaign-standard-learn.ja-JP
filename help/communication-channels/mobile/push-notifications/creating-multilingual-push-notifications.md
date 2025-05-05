@@ -21,4 +21,4 @@ ht-degree: 37%
 
 Adobe Campaign Standardで多言語プッシュ通知を作成する方法を説明します。
 
->[!VIDEO](https://video.tv.adobe.com/v/23304?learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/37612?learn=on&captions=jpn){transcript=true}

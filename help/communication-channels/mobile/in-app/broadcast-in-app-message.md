@@ -21,4 +21,4 @@ ht-degree: 22%
 
 ブロードキャストテンプレートを設定および使用して、モバイルアプリのすべてのユーザーをターゲットにする方法を説明します。
 
->[!VIDEO](https://video.tv.adobe.com/v/26199?learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/40917?learn=on&captions=jpn){transcript=true}

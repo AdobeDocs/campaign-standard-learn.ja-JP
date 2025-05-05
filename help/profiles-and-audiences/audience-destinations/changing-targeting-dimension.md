@@ -29,4 +29,4 @@ ht-degree: 6%
 
 このビデオでは、Adobe Campaign Standardのプライマリプロファイルテーブル外の [!UICONTROL Platform Audience] ージに対する配信のターゲティングディメンションを変更する方法を説明します。
 
->[!VIDEO](https://video.tv.adobe.com/v/30151?learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/34685?learn=on&captions=jpn){transcript=true}

@@ -23,4 +23,4 @@ ht-degree: 100%
 
 Experience Cloud でトリガーを設定する方法を説明します。
 
->[!VIDEO](https://video.tv.adobe.com/v/332624?learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3446139?learn=on&captions=jpn){transcript=true}

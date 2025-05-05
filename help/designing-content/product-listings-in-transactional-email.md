@@ -29,12 +29,12 @@ ht-degree: 8%
 
 ## 手順 1 - イベントを作成して公開する
 
->[!VIDEO](https://video.tv.adobe.com/v/25914?learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/34420?learn=on&captions=jpn){transcript=true}
 
 ## 手順 2 - トランザクションメッセージテンプレートへの製品リストの追加
 
->[!VIDEO](https://video.tv.adobe.com/v/25915?learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/34421?learn=on&captions=jpn){transcript=true}
 
 ## 手順 3 - トランザクションメッセージのテスト
 
->[!VIDEO](https://video.tv.adobe.com/v/25916?learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/34422?learn=on&captions=jpn){transcript=true}

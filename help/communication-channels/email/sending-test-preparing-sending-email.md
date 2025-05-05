@@ -23,4 +23,4 @@ ht-degree: 33%
 
 このビデオでは、Adobe Campaign Standard（ACS）でテストメールを送信し、メール配信を準備して送信する方法を説明します。
 
->[!VIDEO](https://video.tv.adobe.com/v/24013?learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/328368?learn=on&captions=jpn){transcript=true}

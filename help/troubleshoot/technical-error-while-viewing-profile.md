@@ -18,4 +18,4 @@ ht-degree: 100%
 
 Campaign Standard でプロファイルを表示する際に発生した技術的なエラーのトラブルシューティング方法について説明します。
 
->[!VIDEO](https://video.tv.adobe.com/v/335890?learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3436597?learn=on&captions=jpn){transcript=true}

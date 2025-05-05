@@ -29,4 +29,4 @@ Adobe Campaignを使用すると、パーソナライズされセグメント化
 
 ビデオでは、[!DNL push notification to app subscribers] ールの送信方法を説明しています。
 
->[!VIDEO](https://video.tv.adobe.com/v/31499?learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/36320?learn=on&captions=jpn){transcript=true}

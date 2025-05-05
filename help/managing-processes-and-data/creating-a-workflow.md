@@ -28,6 +28,6 @@ ht-degree: 33%
 
 このビデオでは、Adobe Campaign Standardでワークフローを作成および編集する方法を説明します。
 
->[!VIDEO](https://video.tv.adobe.com/v/23937?learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/27575?learn=on&captions=jpn){transcript=true}
 
 詳しくは、製品ドキュメント [ ワークフローの構築（ドキュメント） ](https://experienceleague.adobe.com/docs/campaign-standard/using/managing-processes-and-data/workflow-general-operation/building-a-workflow.html?lang=ja) を参照してください。

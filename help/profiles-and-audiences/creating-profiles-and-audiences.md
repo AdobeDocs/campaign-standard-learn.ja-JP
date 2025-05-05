@@ -28,4 +28,4 @@ Adobe Campaignには次の 2 つのタイプのプロファイルがあります
 
 このビデオでは、既存のプロファイルに移動する方法と、Adobe Campaign Standardでプロファイルとオーディエンスを作成する方法について説明します。
 
->[!VIDEO](https://video.tv.adobe.com/v/18463/?learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/38368/?learn=on&captions=jpn){transcript=true}

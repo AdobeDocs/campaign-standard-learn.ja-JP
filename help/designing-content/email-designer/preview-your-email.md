@@ -21,4 +21,4 @@ ht-degree: 42%
 
 このビデオでは、メールのプレビュー方法とスパム対策分析について説明します。
 
->[!VIDEO](https://video.tv.adobe.com/v/25921?learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/39666?learn=on&captions=jpn){transcript=true}

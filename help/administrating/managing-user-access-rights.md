@@ -21,4 +21,4 @@ ht-degree: 21%
 
 このビデオでは、Adobe Campaignで様々なユーザーに割り当てる権限を定義および管理する方法について説明します。
 
->[!VIDEO](https://video.tv.adobe.com/v/24671?learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/36085?learn=on&captions=jpn){transcript=true}

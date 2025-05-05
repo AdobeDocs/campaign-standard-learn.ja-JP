@@ -21,4 +21,4 @@ ht-degree: 100%
 
 このビデオでは、プロファイルおよびオーディエンスの概念と作成方法を説明します。
 
->[!VIDEO](https://video.tv.adobe.com/v/18464?learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/38376?learn=on&captions=jpn){transcript=true}

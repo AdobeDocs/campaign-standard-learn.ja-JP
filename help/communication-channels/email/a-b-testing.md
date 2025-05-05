@@ -23,6 +23,6 @@ Adobe Campaignの [!UICONTROL A/B Test] 機能を使用すると、2～3 つの�
 
 メールの件名をテストするための A/B テストを設定して送信する方法を説明します。
 
->[!VIDEO](https://video.tv.adobe.com/v/18480?learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/38306?learn=on&captions=jpn){transcript=true}
 
 コンテンツまたは送信者のテスト方法について詳しくは、[ 製品ドキュメント ](https://experienceleague.adobe.com/docs/campaign-standard/using/communication-channels/email-messages/designing-an-a-b-test-email.html?lang=ja) を参照してください。

@@ -31,4 +31,4 @@ Adobe Campaignでは、一連のサービスを通じて、ニュースレター
 
 このビデオでは、サービスを作成し、その購読を管理する方法を説明します。
 
->[!VIDEO](https://video.tv.adobe.com/v/24673?learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/328371?learn=on&captions=jpn){transcript=true}

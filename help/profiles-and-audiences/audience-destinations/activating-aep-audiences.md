@@ -29,7 +29,7 @@ ht-degree: 8%
 
 このビデオでは、[!UICONTROL Read Audience] アクティビティを使用して、ワークフロー内で [!UICONTROL Data Services Query Audience] をアクティベートする方法を説明します。
 
->[!VIDEO](https://video.tv.adobe.com/v/27647?learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/34387?learn=on&captions=jpn){transcript=true}
 
 *ワークフローでのAdobe Experience Platform オーディエンスのアクティブ化（2 分 37 秒）*
 

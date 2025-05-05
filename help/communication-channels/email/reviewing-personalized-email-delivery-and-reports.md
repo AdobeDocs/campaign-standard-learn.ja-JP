@@ -21,4 +21,4 @@ ht-degree: 25%
 
 このビデオでは、パーソナライズされたメール配信を確認する方法と、Adobe Campaign Standardで使用できる様々なレポートについて説明します。
 
->[!VIDEO](https://video.tv.adobe.com/v/21389?learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/38360?learn=on&captions=jpn){transcript=true}

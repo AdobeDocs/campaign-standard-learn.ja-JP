@@ -27,7 +27,7 @@ ht-degree: 12%
 
 ステータスを確認し、データマッピングを変更する方法を説明します。
 
->[!VIDEO](https://video.tv.adobe.com/v/27266?learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/38494?learn=on&captions=jpn){transcript=true}
 
 ## その他のリソース
 

@@ -23,7 +23,7 @@ Adobe Campaign [!UICONTROL Dynamic Reports] は、データを調査できる柔
 
 レポートを作成する方法について学習します。
 
->[!VIDEO](https://video.tv.adobe.com/v/25264/?learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/328359/?learn=on&captions=jpn){transcript=true}
 
 ## その他のリソース
 

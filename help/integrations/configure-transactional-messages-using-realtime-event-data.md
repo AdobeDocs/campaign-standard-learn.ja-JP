@@ -22,4 +22,4 @@ ht-degree: 100%
 
 トリガーから取得したリアルタイムイベントデータを使用してトランザクションメッセージを設定する方法について説明します。
 
->[!VIDEO](https://video.tv.adobe.com/v/332602?learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3450203?learn=on&captions=jpn){transcript=true}

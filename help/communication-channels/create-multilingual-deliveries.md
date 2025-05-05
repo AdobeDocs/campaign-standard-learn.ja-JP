@@ -23,4 +23,4 @@ Adobe Campaignを使用すると、多言語キャンペーンを送信する際
 
 このビデオでは、メールニュースレターのサンプルをテンプレートとして多言語配信を作成する方法を説明します。 ビデオで示されているアプローチは、メールと SMS の両方の配信に適用されます。
 
->[!VIDEO](https://video.tv.adobe.com/v/23252?learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/37610?learn=on&captions=jpn){transcript=true}

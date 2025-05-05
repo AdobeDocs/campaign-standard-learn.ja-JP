@@ -23,4 +23,4 @@ ht-degree: 29%
 
 このビデオでは、テストプロファイルの作成方法を説明します
 
->[!VIDEO](https://video.tv.adobe.com/v/24094?learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/328365?learn=on&captions=jpn){transcript=true}

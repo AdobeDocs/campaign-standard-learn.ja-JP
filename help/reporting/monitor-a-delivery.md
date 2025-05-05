@@ -20,4 +20,4 @@ ht-degree: 33%
 
 メッセージログ、ジョブログ、配信ログについて説明します。
 
->[!VIDEO](https://video.tv.adobe.com/v/3415815/?learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3445035/?learn=on&captions=jpn){transcript=true}

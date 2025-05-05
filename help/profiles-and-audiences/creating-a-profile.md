@@ -21,4 +21,4 @@ ht-degree: 13%
 
 このビデオでは、プロファイルを作成し、オーディエンスに追加する方法を説明します。
 
->[!VIDEO](https://video.tv.adobe.com/v/25277/?learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/328380/?learn=on&captions=jpn){transcript=true}

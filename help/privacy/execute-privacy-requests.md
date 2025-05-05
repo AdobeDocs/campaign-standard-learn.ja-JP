@@ -21,4 +21,4 @@ ht-degree: 100%
 
 Adobe Campaign では、プライバシーリクエストはワークフローで実行されます。 このビデオでは、リクエストにアクセスしリクエストを削除するワークフローとリクエスト実行時の動作について説明します。
 
->[!VIDEO](https://video.tv.adobe.com/v/22770?learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/327322?learn=on&captions=jpn){transcript=true}

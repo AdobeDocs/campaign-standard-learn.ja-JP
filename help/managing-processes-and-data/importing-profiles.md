@@ -23,4 +23,4 @@ ht-degree: 21%
 
 このビデオでは、ワークフローで [!UICONTROL Data Management] アクティビティを使用して、プロファイルデータを読み込む方法を説明します。
 
->[!VIDEO](https://video.tv.adobe.com/v/24993?learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/328487?learn=on&captions=jpn){transcript=true}

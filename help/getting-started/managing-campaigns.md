@@ -21,4 +21,4 @@ ht-degree: 100%
 
 Adobe Campaign では、メール、SMS メッセージ、[!UICONTROL push notifications]、ワークフロー、ランディングページなど、様々なタイプのアクティビティを作成および管理できるマーケティングキャンペーンを計画できます。これらのキャンペーンとそのコンテンツをプログラムに集約することができます。このビデオでは、Adobe Campaign でキャンペーンを作成および管理する方法を紹介します。
 
->[!VIDEO](https://video.tv.adobe.com/v/24672?learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/328405?learn=on&captions=jpn){transcript=true}
