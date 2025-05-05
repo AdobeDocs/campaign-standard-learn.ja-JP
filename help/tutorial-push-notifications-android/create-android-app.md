@@ -59,7 +59,7 @@ ht-degree: 0%
 
 ![[!DNL fcm-successfull]](assets/android-firebase-success.PNG)
 
-[ プロジェクトが  [!DNL Firebase ]console に表示されていることを確認します ](https://console.firebase.google.com/)。
+[ プロジェクトが  [!DNL Firebase &#x200B;]console に表示されていることを確認します ](https://console.firebase.google.com/)。
 
 ## [!UICONTROL Push Channel] 設定
 
