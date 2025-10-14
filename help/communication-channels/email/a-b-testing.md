@@ -25,4 +25,4 @@ Adobe Campaignの [!UICONTROL A/B Test] 機能を使用すると、2～3 つの�
 
 >[!VIDEO](https://video.tv.adobe.com/v/38306?learn=on&captions=jpn){transcript=true}
 
-コンテンツまたは送信者のテスト方法について詳しくは、[ 製品ドキュメント ](https://experienceleague.adobe.com/docs/campaign-standard/using/communication-channels/email-messages/designing-an-a-b-test-email.html?lang=ja) を参照してください。
+コンテンツまたは送信者のテスト方法について詳しくは、[&#x200B; 製品ドキュメント &#x200B;](https://experienceleague.adobe.com/docs/campaign-standard/using/communication-channels/email-messages/designing-an-a-b-test-email.html?lang=ja) を参照してください。

@@ -27,4 +27,4 @@ Adobe Campaign [!UICONTROL Dynamic Reports] は、カスタムプロファイル
 
 ## その他のリソース
 
-* [ レポートについて ](https://experienceleague.adobe.com/docs/campaign-standard/using/reporting/about-reporting/about-dynamic-reports.html?lang=ja)
+* [&#x200B; レポートについて &#x200B;](https://experienceleague.adobe.com/docs/campaign-standard/using/reporting/about-reporting/about-dynamic-reports.html?lang=ja)

@@ -102,7 +102,7 @@ MobileCore.lifecyclePause();
 Adobe Campaign Standard インスタンスにログインします。
 **[!UICONTROL Administration->Channels->Mobile App(Experience Platform SDK)]** に移動します。 適切なモバイルアプリケーションを開きます。 「[!UICONTROL Mobile Application Subscribers]」タブに移動します。 [!UICONTROL registration token]listed が表示されます。
 
-![ モバイルアプリケーション購読者 ](assets/mobile-application-subscribers.PNG)
+![&#x200B; モバイルアプリケーション購読者 &#x200B;](assets/mobile-application-subscribers.PNG)
 
 >[!NOTE]
 >

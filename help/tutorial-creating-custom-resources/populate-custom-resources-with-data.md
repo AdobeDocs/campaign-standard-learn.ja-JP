@@ -21,4 +21,4 @@ ht-degree: 3%
 
 >[!VIDEO](https://video.tv.adobe.com/v/27714?learn=on){transcript=true}
 
-[!DNL API] を通じてカスタムリソースに値を入力する方法について詳しくは、ドキュメント [ カスタムリソースの操作 ](https://experienceleague.adobe.com/docs/campaign-standard/using/working-with-apis/interacting-with-custom-resources.html?lang=ja) を参照してください。
+[!DNL API] を通じてカスタムリソースに値を入力する方法について詳しくは、ドキュメント [&#x200B; カスタムリソースの操作 &#x200B;](https://experienceleague.adobe.com/docs/campaign-standard/using/working-with-apis/interacting-with-custom-resources.html?lang=ja) を参照してください。

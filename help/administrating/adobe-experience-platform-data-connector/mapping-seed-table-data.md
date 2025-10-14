@@ -29,4 +29,4 @@ ht-degree: 11%
 
 >[!VIDEO](https://video.tv.adobe.com/v/35781?learn=on&captions=jpn){transcript=true}
 
-[ マッピング定義 ](https://experienceleague.adobe.com/docs/campaign-standard/using/integrating-with-adobe-cloud/adobe-experience-platform/data-connector/aep-mapping-definition.html?lang=ja) および [ マッピングアクティベーションについて詳しくは、製品ドキュメントを参照してください ](https://experienceleague.adobe.com/docs/campaign-standard/using/integrating-with-adobe-cloud/adobe-experience-platform/data-connector/aep-mapping-activation.html?lang=ja)
+[&#x200B; マッピング定義 &#x200B;](https://experienceleague.adobe.com/docs/campaign-standard/using/integrating-with-adobe-cloud/adobe-experience-platform/data-connector/aep-mapping-definition.html?lang=ja) および [&#x200B; マッピングアクティベーションについて詳しくは、製品ドキュメントを参照してください &#x200B;](https://experienceleague.adobe.com/docs/campaign-standard/using/integrating-with-adobe-cloud/adobe-experience-platform/data-connector/aep-mapping-activation.html?lang=ja)

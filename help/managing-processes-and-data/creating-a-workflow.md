@@ -30,4 +30,4 @@ ht-degree: 33%
 
 >[!VIDEO](https://video.tv.adobe.com/v/27575?learn=on&captions=jpn){transcript=true}
 
-詳しくは、製品ドキュメント [ ワークフローの構築（ドキュメント） ](https://experienceleague.adobe.com/docs/campaign-standard/using/managing-processes-and-data/workflow-general-operation/building-a-workflow.html?lang=ja) を参照してください。
+詳しくは、製品ドキュメント [&#x200B; ワークフローの構築（ドキュメント） &#x200B;](https://experienceleague.adobe.com/docs/campaign-standard/using/managing-processes-and-data/workflow-general-operation/building-a-workflow.html?lang=ja) を参照してください。

@@ -29,6 +29,6 @@ ht-degree: 1%
 
 チャネルは、ホームページとワークフロービュー内から使用でき、まとまりのあるクロスチャネルマーケティング戦略を定義できます。 次のサンプルワークフローには [!UICONTROL Direct Mail activity] が含まれています。
 
-![ ワークフロー画像 ](/help/assets/direct_mail_examplewf.png)
+![&#x200B; ワークフロー画像 &#x200B;](/help/assets/direct_mail_examplewf.png)
 
-詳しくは、製品ドキュメント [ ダイレクトメールについて ](https://experienceleague.adobe.com/docs/campaign-standard/using/communication-channels/direct-mail/about-direct-mail.html?lang=ja) を参照してください
+詳しくは、製品ドキュメント [&#x200B; ダイレクトメールについて &#x200B;](https://experienceleague.adobe.com/docs/campaign-standard/using/communication-channels/direct-mail/about-direct-mail.html?lang=ja) を参照してください

@@ -25,4 +25,4 @@ ht-degree: 20%
 
 >[!VIDEO](https://video.tv.adobe.com/v/35433?learn=on&captions=jpn){transcript=true}
 
-詳しくは、[ ドキュメント ](https://experienceleague.adobe.com/docs/campaign-standard/using/reporting/customizing-reports/creating-a-report-workflow-segment.html?lang=ja) を参照してください。
+詳しくは、[&#x200B; ドキュメント &#x200B;](https://experienceleague.adobe.com/docs/campaign-standard/using/reporting/customizing-reports/creating-a-report-workflow-segment.html?lang=ja) を参照してください。

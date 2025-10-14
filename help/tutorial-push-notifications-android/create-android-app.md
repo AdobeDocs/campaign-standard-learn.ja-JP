@@ -23,7 +23,7 @@ ht-degree: 0%
 
 1. [!DNL Firebase] アカウントにログインします。
 
-   [!DNL Firebase] は、高品質のアプリを迅速に開発するのに役立つGoogleのモバイルプラットフォームです。 [!DNL Firebase] アカウントをお持ちでない場合は、[ こちらから ](https://firebase.google.com) アカウントを作成してください。
+   [!DNL Firebase] は、高品質のアプリを迅速に開発するのに役立つGoogleのモバイルプラットフォームです。 [!DNL Firebase] アカウントをお持ちでない場合は、[&#x200B; こちらから &#x200B;](https://firebase.google.com) アカウントを作成してください。
 
 2. Launch [!DNL Android Studio]
 3. **[!UICONTROL File]**/**[!UICONTROL New]**/**[!UICONTROL New Project]をクリックします。**
@@ -45,7 +45,7 @@ ht-degree: 0%
 8. **[!UICONTROL Tools]**/**[!UICONTROL Firebase]をクリックします。** （これによりプロジェクトが [!DNL Firebase] に追加されます）
 9. 「**[!UICONTROL Set up Firebase Cloud Messaging].**」をクリックします。
 
-   ![firebase のセットアップ ](assets/android-project-firebase-messaging.PNG)
+   ![firebase のセットアップ &#x200B;](assets/android-project-firebase-messaging.PNG)
 
 10. 「**[!UICONTROL Connect to Firebase].**」をクリックします。
 11. アプリが Firebase に接続されたら、「**[!UICONTROL Add FCM to your app].**」をクリックします。
@@ -59,7 +59,7 @@ ht-degree: 0%
 
 ![[!DNL fcm-successfull]](assets/android-firebase-success.PNG)
 
-[ プロジェクトが  [!DNL Firebase &#x200B;]console に表示されていることを確認します ](https://console.firebase.google.com/)。
+[&#x200B; プロジェクトが  [!DNL Firebase &#x200B;]console に表示されていることを確認します &#x200B;](https://console.firebase.google.com/)。
 
 ## [!UICONTROL Push Channel] 設定
 

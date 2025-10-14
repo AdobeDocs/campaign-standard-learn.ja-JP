@@ -25,4 +25,4 @@ Adobe Campaignを使用すると、ランディングページを作成できま
 
 ## その他のリソース
 
-* [ ランディングページの作成（ドキュメント） ](https://docs.campaign.adobe.com/doc/standard/getting_started/en/ACS_CreateLandingPage.html)
+* [&#x200B; ランディングページの作成（ドキュメント） &#x200B;](https://docs.campaign.adobe.com/doc/standard/getting_started/en/ACS_CreateLandingPage.html)

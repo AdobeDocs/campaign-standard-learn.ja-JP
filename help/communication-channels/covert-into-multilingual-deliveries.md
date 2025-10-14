@@ -23,4 +23,4 @@ ht-degree: 33%
 
 >[!VIDEO](https://video.tv.adobe.com/v/23251?learn=on){transcript=true}
 
-詳しくは、製品ドキュメント [ 多言語メールの作成 ](https://experienceleague.adobe.com/docs/campaign-standard/using/communication-channels/email-messages/creating-a-multilingual-email.html?lang=ja) を参照してください。
+詳しくは、製品ドキュメント [&#x200B; 多言語メールの作成 &#x200B;](https://experienceleague.adobe.com/docs/campaign-standard/using/communication-channels/email-messages/creating-a-multilingual-email.html?lang=ja) を参照してください。

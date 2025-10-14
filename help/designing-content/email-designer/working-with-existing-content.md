@@ -31,4 +31,4 @@ ht-degree: 10%
 
 詳細なドキュメントは、次のリンクにあります。
 
-[HTMLコンテンツの電子メールDesignerテンプレートへの変換 ](https://experienceleague.adobe.com/docs/campaign-standard/using/designing-content/building-email-content/using-existing-content.html?lang=ja)
+[HTMLコンテンツの電子メールDesignerテンプレートへの変換 &#x200B;](https://experienceleague.adobe.com/docs/campaign-standard/using/designing-content/building-email-content/using-existing-content.html?lang=ja)
