@@ -23,7 +23,7 @@ ht-degree: 100%
 
 パーソナライズされたメールニュースレターを送信する場合を考えてみます。 ニュースレターを送信する前に、同僚からニュースレターのレビュー用にプルーフを送信するよう依頼されています。 [!UICONTROL Profile Substitution] 機能を使用してプルーフを送信できます。これにより、ターゲットプロファイルが受け取るメッセージの正確な内容を送信できます。
 
->[!VIDEO](https://video.tv.adobe.com/v/32368?learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/36510?captions=jpn&learn=on){transcript=true}
 
 詳しくは、[製品ドキュメント](https://experienceleague.adobe.com/docs/campaign-standard/using/testing-and-sending/preparing-and-testing-messages/testing-messages-using-target.html?lang=ja)の詳細を参照してください。
 

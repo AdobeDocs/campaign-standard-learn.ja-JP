@@ -26,4 +26,4 @@ Adobe Experience Platform データ収集の方法と、設定をテストする
 >
 > Launch は、Adobe Experience Platform のタグ機能になりました。 これは、**Adobe Experience Platform データ収集**&#x200B;にあります。
 
->[!VIDEO](https://video.tv.adobe.com/v/332908?learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3454017?captions=jpn&learn=on){transcript=true}

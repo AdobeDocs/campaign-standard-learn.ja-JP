@@ -21,4 +21,4 @@ ht-degree: 100%
 
 このビデオでは、[!UICONTROL Adobe Campaign Standard] を紹介し、主な機能に関して大まかな概要を説明します。
 
->[!VIDEO](https://video.tv.adobe.com/v/29430?learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/35082?captions=jpn&learn=on){transcript=true}
