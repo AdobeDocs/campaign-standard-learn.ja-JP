@@ -9,8 +9,8 @@ team: TM
 recommendations: noDisplay
 exl-id: 8dd772b2-b082-4e1e-842d-c5d6bcec564c
 source-git-commit: 943599bd7ce139ef846f093ebda9084a91550aca
-workflow-type: tm+mt
-source-wordcount: '193'
+workflow-type: ht
+source-wordcount: '211'
 ht-degree: 100%
 
 ---
@@ -23,11 +23,11 @@ Adobe Campaign では、iOS と Android™ のモバイルデバイスに、パ�
 
 ## 前提条件
 
-* Adobe Campaign Standard 拡張機能を使用して起動プロパティを設定する必要があります。以下のオンラインヘルプに従ってください。
-   * [ビデオチュートリアル](https://video.tv.adobe.com/v/40903?learn=on&captions=jpn){transcript=true}
+* Adobe Campaign Standard 拡張機能を使用して起動プロパティを設定する必要があります。 以下のオンラインヘルプに従ってください。
+   * [ビデオチュートリアル](https://video.tv.adobe.com/v/26224?learn=on){transcript=true}
    * [ドキュメント](https://experienceleague.adobe.com/docs/campaign-standard-learn/tutorials/communication-channels/mobile/configure-mobile-apps-using-aep-sdk.html?lang=ja)
 
-* 対応するプロパティの Adobe Campaign Standard でのステータスが設定済みになっていることを確認します。
+* Adobe Campaign Standard で対応するプロパティのステータスが設定済みになっていることを確認します。
 * [アクティブな Google Firebase アカウントを持っている](https://firebase.google.com)
 * [最新バージョンの Android™ Studio がインストールされている](https://developer.android.com/studio)
 

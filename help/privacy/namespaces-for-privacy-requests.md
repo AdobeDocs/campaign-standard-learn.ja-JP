@@ -11,8 +11,8 @@ level: Experienced
 team: TM
 exl-id: b2d5362b-9b23-4f51-9802-19636457fab3
 source-git-commit: 943599bd7ce139ef846f093ebda9084a91550aca
-workflow-type: tm+mt
-source-wordcount: '62'
+workflow-type: ht
+source-wordcount: '60'
 ht-degree: 100%
 
 ---
@@ -23,4 +23,4 @@ GDPR や CCPA の要件に応じて、プライバシーのアクセスリクエ
 
 プライバシーリクエストの名前空間を作成する方法について説明します。
 
->[!VIDEO](https://video.tv.adobe.com/v/29420?learn=on&captions=jpn){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/22600?learn=on){transcript=true}

@@ -10,8 +10,8 @@ level: Beginner
 last-substantial-update: 2023-03-06T00:00:00Z
 exl-id: 97d499e4-8bb9-4c68-8dd1-80a7d9162626
 source-git-commit: 943599bd7ce139ef846f093ebda9084a91550aca
-workflow-type: tm+mt
-source-wordcount: '44'
+workflow-type: ht
+source-wordcount: '42'
 ht-degree: 100%
 
 ---
@@ -20,4 +20,4 @@ ht-degree: 100%
 
 最終的な受信者に送信する前に、メールメッセージをテストする方法を説明します。
 
->[!VIDEO](https://video.tv.adobe.com/v/3446216/?learn=on&captions=jpn){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3416038/?learn=on){transcript=true}

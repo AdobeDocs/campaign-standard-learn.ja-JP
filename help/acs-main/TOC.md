@@ -4,9 +4,9 @@ user-guide-description: Adobe Campaign Standard のビデオとチュートリ�
 breadcrumb-title: Campaign Standard チュートリアル
 auto-video-transcripts: true
 source-git-commit: 659a9de22dc7e160d0e484fed9aa5fcdcb7d1405
-workflow-type: tm+mt
-source-wordcount: '517'
-ht-degree: 91%
+workflow-type: ht
+source-wordcount: '604'
+ht-degree: 100%
 
 ---
 
@@ -32,7 +32,7 @@ ht-degree: 91%
    + [テストプロファイルの作成](/help/profiles-and-audiences/test-profiles.md)
    + [ワークフローでのプロファイルの読み込み](/help/managing-processes-and-data/importing-profiles.md)
    + [サービスとサブスクリプションの管理](/help/managing-processes-and-data/services-and-subscriptions.md)
-   + オーディエンスの宛先（BETA）{#audience-destinations}
+   + オーディエンスの宛先（ベータ版）{#audience-destinations}
       + [概要](/help/profiles-and-audiences/audience-destinations/audience-destinations-overview.md)
       + [統合セグメントビルダーを使用したオーディエンスの作成](/help/profiles-and-audiences/audience-destinations/creating-audiences-using-segment-builder.md)
       + [ワークフローでの Adobe Experience Platform オーディエンスのアクティベーション](/help/profiles-and-audiences/audience-destinations/activating-aep-audiences.md)
@@ -72,7 +72,7 @@ ht-degree: 91%
       + [ランディングページの作成と編集](/help/communication-channels/landing-pages/landing-page-create-and-edit.md)
       + [ランディングページのテストと公開](/help/communication-channels/landing-pages/landing-page-test-and-publish.md)
       + [ランディングページテンプレートの設定](/help/communication-channels/landing-pages/landing-page-configure-templates.md)
-+ コンテンツの設計とパーソナライズ {#designing-content}
++ コンテンツのデザインとパーソナライゼーション {#designing-content}
    + E メールデザイナー{#email-designer}
       + [概要](/help/designing-content/email-designer/email-designer-overview.md)
       + [E メールデザイナーの基本を学ぶ](/help/designing-content/email-designer/getting-started-with-the-email-designer.md)
@@ -88,7 +88,7 @@ ht-degree: 91%
       + [外部信号アクティビティ](/help/managing-processes-and-data/execution-activities/external-signal-activity.md)
    + データ管理アクティビティ {#data-management-activities}
       + [外部 API アクティビティ](/help/managing-processes-and-data/data-management-activities/external-api-activity.md)
-+ レポートと監視 {#reporting}
++ レポートとモニター {#reporting}
    + [レポートの詳細](/help/getting-started/exploring-reports.md)
    + [動的レポートの作成](/help/reporting/creating-a-dynamic-report.md)
    + [カスタムプロファイル属性に基づくレポートの作成](/help/reporting/custom-profile-attributes-dynamic-reports.md)
@@ -96,18 +96,18 @@ ht-degree: 91%
    + [配信の監視](/help/reporting/monitor-a-delivery.md)
 + 他のソリューションとの統合 {#integrations}
    + [Adobe Analytics での配信の成功をトラックする](/help/integrations/track-the-success-of-your-deliveries-in-analytics.md)
-   + トランザクションメッセージに対するトリガーの使用 {#triggers}
+   + トランザクションメッセージにトリガーを使用する {#triggers}
       + [概要](/help/integrations/using-triggers-for-transactional-messaging-overview.md)
       + [Launch でのトリガーの設定](/help/integrations/configure-launch-for-triggers.md)
       + [Experience Cloud でのトリガーの作成](/help/integrations/create-a-trigger-in-experience-cloud.md)
       + [Campaign Standard でのトリガーイベントの作成](/help/integrations/create-a-trigger-event.md)
       + [リアルタイムイベントデータを使用したトランザクションメッセージの設定](/help/integrations/configure-transactional-messages-using-realtime-event-data.md)
-   + [Microsoft の設定](/help/integrations/configure-dynamics-365.md)
+   + [Campaign Standard と統合する Microsoft® Dynamics 365 の設定](/help/integrations/configure-dynamics-365.md)
 + 管理 {#administrating}
    + [ユーザーアクセス権の管理](/help/administrating/managing-user-access-rights.md)
    + [カスタムリソースの作成](https://experienceleague.adobe.com/docs/campaign-standard-learn/creating-custom-resources/introduction.html?lang=ja)
    + [コントロールパネル](https://experienceleague.adobe.com/docs/control-panel-learn/control-panel/control-panel-overview.html?lang=ja){target="_blank"}
-   + Adobe Experience Platform コネクタ {#adobe-experience-platform-data-connector}
+   + Adobe Experience Platform Data Connector {#adobe-experience-platform-data-connector}
       + [Adobe Experience Platform Data Connector について](/help/administrating/adobe-experience-platform-data-connector/understanding-the-adobe-experience-platform-data-connector.md)
       + [カスタムリソースのマッピング](/help/administrating/adobe-experience-platform-data-connector/mapping-custom-resources.md)
       + [エクスペリエンスイベントのマッピング](/help/administrating/adobe-experience-platform-data-connector/mapping-experience-events.md)

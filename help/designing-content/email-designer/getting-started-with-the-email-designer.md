@@ -11,8 +11,8 @@ exl-id: 298fa9c5-153b-4886-9324-82d2651060ab
 role: User, Developer
 level: Beginner
 source-git-commit: 943599bd7ce139ef846f093ebda9084a91550aca
-workflow-type: tm+mt
-source-wordcount: '44'
+workflow-type: ht
+source-wordcount: '42'
 ht-degree: 100%
 
 ---
@@ -21,4 +21,4 @@ ht-degree: 100%
 
 このビデオでは、[!UICONTROL Email Designer] の一般的な機能とメールをゼロから設計する方法を説明します。
 
->[!VIDEO](https://video.tv.adobe.com/v/327699?learn=on&captions=jpn){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/25912?learn=on){transcript=true}

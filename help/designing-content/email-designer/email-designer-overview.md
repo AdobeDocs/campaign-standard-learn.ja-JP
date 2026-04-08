@@ -12,19 +12,19 @@ role: User, Developer
 recommendations: noDisplay
 level: Beginner
 source-git-commit: 943599bd7ce139ef846f093ebda9084a91550aca
-workflow-type: tm+mt
-source-wordcount: '125'
+workflow-type: ht
+source-wordcount: '123'
 ht-degree: 100%
 
 ---
 
 # [!UICONTROL Email Designer] の概要
 
-[!UICONTROL Email Designer] では、コードを 1 行も記述することなく、視覚的なツールを使用して個々にパーソナライズされたメールをすばやく容易に作成できるので、メールの大規模な作成が可能です。メールコンテンツとメールコンテンツテンプレートを作成できます。シンプルなメール、トランザクションメール、A/B テストメール、多言語メール、定期的なメールと互換性があります。
+[!UICONTROL Email Designer] では、コードを 1 行も記述することなく、視覚的なツールを使用して個々にパーソナライズされたメールをすばやく容易に作成できるので、メールの大規模な作成が可能です。 メールコンテンツとメールコンテンツテンプレートを作成できます。 シンプルなメール、トランザクションメール、A/B テストメール、多言語メール、定期的なメールと互換性があります。
 
 このビデオでは、Adobe Campaign Standard [!UICONTROL Email Designer] の機能と使用方法に関する概要を説明します。
 
->[!VIDEO](https://video.tv.adobe.com/v/330102?learn=on&captions=jpn){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/22771?learn=on){transcript=true}
 
 ## チュートリアル
 

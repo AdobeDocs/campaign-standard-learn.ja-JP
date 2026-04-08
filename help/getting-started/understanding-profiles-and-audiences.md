@@ -11,8 +11,8 @@ exl-id: 8a11b35f-ac6b-4f63-a72e-4e676ea3d69d
 role: User, Developer, Admin
 level: Beginner
 source-git-commit: 943599bd7ce139ef846f093ebda9084a91550aca
-workflow-type: tm+mt
-source-wordcount: '45'
+workflow-type: ht
+source-wordcount: '43'
 ht-degree: 100%
 
 ---
@@ -21,4 +21,4 @@ ht-degree: 100%
 
 このビデオでは、プロファイルおよびオーディエンスの概念と作成方法を説明します。
 
->[!VIDEO](https://video.tv.adobe.com/v/38376?learn=on&captions=jpn){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/18464?learn=on){transcript=true}
