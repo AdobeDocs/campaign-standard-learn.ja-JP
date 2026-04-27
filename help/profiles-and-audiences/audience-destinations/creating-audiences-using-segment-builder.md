@@ -33,6 +33,6 @@ Adobe Campaign Standardでは、Adobe Experience Platform [!UICONTROL Unified Se
 
 次のビデオでは、Adobe Campaign Standard内で[!UICONTROL Unified Segment Builder]を使用して新しいオーディエンスを作成する方法を説明します。
 
->[!VIDEO](https://video.tv.adobe.com/v/27638?learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/38520?captions=jpn&learn=on){transcript=true}
 
 *統合セグメントビルダーを使用してAdobe Campaign Standardでオーディエンスを作成する方法（最小02:47）*

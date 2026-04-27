@@ -29,7 +29,7 @@ ht-degree: 5%
 
 This video explains how to activate the [!UICONTROL Data Services Query Audience] within a workflow by using the [!UICONTROL Read Audience] activity.
 
->[!VIDEO](https://video.tv.adobe.com/v/27647?learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/34387?captions=jpn&learn=on){transcript=true}
 
 *Activate an Adobe Experience Platform audience in a workflow (02:37 min)*
 
