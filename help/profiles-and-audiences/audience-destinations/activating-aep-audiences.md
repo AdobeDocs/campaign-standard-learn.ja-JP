@@ -1,6 +1,6 @@
 ---
 title: ワークフローでの Adobe Experience Platform オーディエンスのアクティベーション
-description: このビデオでは、「オーディエンスを読み取り」アクティビティを使用して、ワークフロー内でデータサービスクエリオーディエンスをアクティブ化する方法を説明します。
+description: This video explains how to activate the Data Services Query Audience within a workflow by using the 'Read audience' activity.
 feature: People Core Service Integration
 jira: KT-2760
 thumbnail: 27647.jpg
@@ -12,25 +12,25 @@ role: User, Developer
 level: Beginner, Intermediate, Experienced
 hide: true
 hidefromtoc: true
-source-git-commit: ecd7ab2e03c38d17f2690161e19120d884c89993
+source-git-commit: 6ed6364db3a488a5bf092da155e5c257e5b42348
 workflow-type: tm+mt
-source-wordcount: '118'
-ht-degree: 8%
+source-wordcount: '134'
+ht-degree: 5%
 
 ---
 
-# マーケティングワークフローのワークフロー [!UICONTROL Adobe Experience Platform Audiences]Adobe Experience Platform オーディエンスのアクティブ化
+# Activate Adobe Experience Platform audiences in a workflow [!UICONTROL Adobe Experience Platform Audiences] in a Marketing Workflow
 
 >[!NOTE]
 >
->この機能はベータ版で、予告なく頻繁に更新や変更が行われる可能性があります。 [!UICONTROL Audience Destinations] はAdobe Experience Platformに基づいており、特別な設定が必要です。
+>この機能はベータ版で、予告なく頻繁に更新および変更される可能性があります。 [!UICONTROL Audience Destinations]はAdobe Experience Platformをベースにしており、特定の設定が必要です。
 >
->この機能を実装する予定がある場合は、[!UICONTROL Adobe Customer Support] にお問い合わせください。
+>この機能を実装する予定がある場合は、[!UICONTROL Adobe Customer Support]にお問い合わせください。
 
-このビデオでは、[!UICONTROL Read Audience] アクティビティを使用して、ワークフロー内で [!UICONTROL Data Services Query Audience] をアクティベートする方法を説明します。
+This video explains how to activate the [!UICONTROL Data Services Query Audience] within a workflow by using the [!UICONTROL Read Audience] activity.
 
->[!VIDEO](https://video.tv.adobe.com/v/34387?learn=on&captions=jpn){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/27647?learn=on){transcript=true}
 
-*ワークフローでのAdobe Experience Platform オーディエンスのアクティブ化（2 分 37 秒）*
+*Activate an Adobe Experience Platform audience in a workflow (02:37 min)*
 
-Adobe Experience Platform オーディエンスを Campaign に取り込む [&#x200B; 方法については、製品ドキュメントを参照してください &#x200B;](https://experienceleague.adobe.com/docs/campaign-standard/using/integrating-with-adobe-cloud/adobe-experience-platform/aep-sources-destinations/ingest-aep-data.html?lang=ja)
+See the product documentation on how to [ingest Adobe Experience Platform audiences into Campaign](https://experienceleague.adobe.com/docs/campaign-standard/using/integrating-with-adobe-cloud/adobe-experience-platform/aep-sources-destinations/ingest-aep-data.html)

@@ -1,6 +1,6 @@
 ---
 title: ターゲティングディメンションの変更
-description: このビデオでは、Adobe Campaign Standardのプライマリプロファイルテーブル外で、Platform オーディエンスの配信のターゲティングディメンションを変更する方法を説明します。
+description: このビデオでは、Adobe Campaign Standardのプライマリプロファイルテーブル以外のPlatform オーディエンスに対する配信のターゲティングディメンションを変更する方法を説明します。
 feature: People Core Service Integration
 jira: KT-3739
 thumbnail: 30151.jpg
@@ -12,21 +12,21 @@ role: User, Developer
 level: Beginner, Intermediate, Experienced
 hide: true
 hidefromtoc: true
-source-git-commit: 563f4440b1d9454a1976b4ba7594d8a550814de1
+source-git-commit: 6ed6364db3a488a5bf092da155e5c257e5b42348
 workflow-type: tm+mt
-source-wordcount: '96'
-ht-degree: 6%
+source-wordcount: '94'
+ht-degree: 4%
 
 ---
 
-# ターゲティングディメンションの変更 [!UICONTROL Platform Audience]
+# ターゲティングディメンション [!UICONTROL Platform Audience]を変更
 
 >[!NOTE]
 >
->この機能はベータ版で、予告なく頻繁に更新や変更が行われる可能性があります。 [!UICONTROL Audience Destinations] はAdobe Experience Platformに基づいており、特別な設定が必要です。
+>この機能はベータ版で、予告なく頻繁に更新および変更される可能性があります。 [!UICONTROL Audience Destinations]はAdobe Experience Platformをベースにしており、特定の設定が必要です。
 >
->この機能を実装する予定がある場合は、[!UICONTROL Adobe Customer Support] にお問い合わせください。
+>この機能を実装する予定がある場合は、[!UICONTROL Adobe Customer Support]にお問い合わせください。
 
-このビデオでは、Adobe Campaign Standardのプライマリプロファイルテーブル外の [!UICONTROL Platform Audience] ージに対する配信のターゲティングディメンションを変更する方法を説明します。
+このビデオでは、Adobe Campaign Standardのプライマリプロファイルテーブル外の[!UICONTROL Platform Audience]に対する配信のターゲティングディメンションを変更する方法を説明します。
 
->[!VIDEO](https://video.tv.adobe.com/v/34685?learn=on&captions=jpn){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/30151?learn=on){transcript=true}
