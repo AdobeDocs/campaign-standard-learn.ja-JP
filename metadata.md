@@ -6,9 +6,9 @@ version: Campaign Standard
 type: Tutorial
 feature-set: Campaign
 mini-toc-levels: 3
-git-repo: https://github.com/AdobeDocs/campaign-standard-learn.ja-JP
+git-repo: https://github.com/AdobeDocs/campaign-standard-learn.en
 index: true
-source-git-commit: 83b1b0c98d74d4555269a7d90051146d21824dc0
+source-git-commit: 6ed6364db3a488a5bf092da155e5c257e5b42348
 workflow-type: ht
 source-wordcount: '149'
 ht-degree: 100%
@@ -18,16 +18,16 @@ ht-degree: 100%
 
 # 内部使用のためのメタデータ
 
-metadata.md ファイルには、リポジトリ内のユーザーガイド TOC.md ファイルに渡されるリポジトリレベルのメタデータが含まれています。任意のユーザーガイドの metadata.md コンテンツを変更する場合は、任意の TOC.md ファイルで変更します。
+metadata.md ファイルには、リポジトリ内のユーザーガイド TOC.md ファイルに渡されるリポジトリレベルのメタデータが含まれています。 任意のユーザーガイドの metadata.md コンテンツを変更する場合は、任意の TOC.md ファイルで変更します。
 
 | metadata | それはどう機能しますか。 |
 |--- |--- |
 | solution-title | 記事ヘッダーにリンクとして使用 |
 | solution-hub-url | helpx ハブページを開きます |
-| solution-icon | ソリューションタイトルの横にソリューションアイコンを表示します。まだ実装されていません |
+| solution-icon | ソリューションタイトルの横にソリューションアイコンを表示します。 まだ実装されていません |
 | getting-started-url | Helpx 入門ページへのリンク |
 | tutorials-url | ビデオチュートリアルへのリンク - helpx チュートリアルまたは KT チュートリアル |
-| mini-toc-levels | 右側のパネルに表示される見出しレベルの数を指定します。デフォルトは 2 です |
+| mini-toc-levels | 右側のパネルに表示される見出しレベルの数を指定します。 デフォルトは 2 です |
 | git-repo | 内部使用のマスターリポジトリの場所を指定します |
 
 TOC.md ファイル内
