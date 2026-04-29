@@ -8,10 +8,10 @@ feature-set: Campaign
 landing-page-name: campaign
 landing-page-breadcrumb-title: Campaign
 mini-toc-levels: 3
-git-repo: https://github.com/AdobeDocs/campaign-standard-learn.ja-JP
+git-repo: https://github.com/AdobeDocs/campaign-standard-learn.en
 index: true
 source-git-commit: 9f652d2b8464bbad6a5308898c75e1d96ed355c5
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '149'
 ht-degree: 100%
 
