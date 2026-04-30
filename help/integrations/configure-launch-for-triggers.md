@@ -8,11 +8,10 @@ doc-type: feature video
 role: Admin
 level: Experienced
 team: TM
-hidefromtoc: false
 exl-id: 39e087af-0868-4db7-b031-1830e72f6e61
 badgeIntegration: label="統合" type="positive"
-source-git-commit: 943599bd7ce139ef846f093ebda9084a91550aca
-workflow-type: ht
+source-git-commit: 907e14a1fcd0b53b856278956d50029a1536b266
+workflow-type: tm+mt
 source-wordcount: '85'
 ht-degree: 100%
 
@@ -26,4 +25,4 @@ Adobe Experience Platform データ収集の方法と、設定をテストする
 >
 > Launch は、Adobe Experience Platform のタグ機能になりました。 これは、**Adobe Experience Platform データ収集**&#x200B;にあります。
 
->[!VIDEO](https://video.tv.adobe.com/v/3454017?captions=jpn&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/332908?learn=on){transcript=true}

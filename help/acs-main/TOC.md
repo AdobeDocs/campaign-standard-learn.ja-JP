@@ -3,10 +3,10 @@ user-guide-title: Adobe Campaign Standard チュートリアル
 user-guide-description: Adobe Campaign Standard のビデオとチュートリアル。
 breadcrumb-title: Campaign Standard チュートリアル
 auto-video-transcripts: true
-source-git-commit: 659a9de22dc7e160d0e484fed9aa5fcdcb7d1405
-workflow-type: ht
+source-git-commit: 907e14a1fcd0b53b856278956d50029a1536b266
+workflow-type: tm+mt
 source-wordcount: '604'
-ht-degree: 100%
+ht-degree: 95%
 
 ---
 
@@ -33,14 +33,14 @@ ht-degree: 100%
    + [ワークフローでのプロファイルの読み込み](/help/managing-processes-and-data/importing-profiles.md)
    + [サービスとサブスクリプションの管理](/help/managing-processes-and-data/services-and-subscriptions.md)
    + オーディエンスの宛先（ベータ版）{#audience-destinations}
-      + [概要](/help/profiles-and-audiences/audience-destinations/audience-destinations-overview.md)
-      + [統合セグメントビルダーを使用したオーディエンスの作成](/help/profiles-and-audiences/audience-destinations/creating-audiences-using-segment-builder.md)
-      + [ワークフローでの Adobe Experience Platform オーディエンスのアクティベーション](/help/profiles-and-audiences/audience-destinations/activating-aep-audiences.md)
-      + [ターゲティングディメンションの変更](/help/profiles-and-audiences/audience-destinations/changing-targeting-dimension.md)
+      + {hide-from-toc}[概要](/help/profiles-and-audiences/audience-destinations/audience-destinations-overview.md)
+      + {hide-from-toc}[統合セグメントビルダーを使用したオーディエンスの作成](/help/profiles-and-audiences/audience-destinations/creating-audiences-using-segment-builder.md)
+      + {hide-from-toc}[ ワークフローでAdobe Experience Platform オーディエンスをアクティブ化](/help/profiles-and-audiences/audience-destinations/activating-aep-audiences.md)
+      + {hide-from-toc}[ ターゲティングディメンションの変更](/help/profiles-and-audiences/audience-destinations/changing-targeting-dimension.md)
 + 通信チャネル {#communication-channels}
    + メール {#email}
       + [メールの作成](/help/communication-channels/email/create-email-from-homepage.md)
-      + [テストメールの送信、メール配信の準備、メールの送信](/help/communication-channels/email/sending-test-preparing-sending-email.md)
+      + {hide-from-toc}[ テストを送信し、準備して、メールを送信](/help/communication-channels/email/sending-test-preparing-sending-email.md)
       + [メッセージのスケジュール](/help/communication-channels/email/schedule-messages.md)
       + [配達確認の送信](/help/communication-channels/email/send-a-proof.md)
       + [A/B テスト](/help/communication-channels/email/a-b-testing.md)
@@ -99,7 +99,7 @@ ht-degree: 100%
    + トランザクションメッセージにトリガーを使用する {#triggers}
       + [概要](/help/integrations/using-triggers-for-transactional-messaging-overview.md)
       + [Launch でのトリガーの設定](/help/integrations/configure-launch-for-triggers.md)
-      + [Experience Cloud でのトリガーの作成](/help/integrations/create-a-trigger-in-experience-cloud.md)
+      + {hide-from-toc}[Experience Cloud でのトリガーの作成](/help/integrations/create-a-trigger-in-experience-cloud.md)
       + [Campaign Standard でのトリガーイベントの作成](/help/integrations/create-a-trigger-event.md)
       + [リアルタイムイベントデータを使用したトランザクションメッセージの設定](/help/integrations/configure-transactional-messages-using-realtime-event-data.md)
    + [Campaign Standard と統合する Microsoft® Dynamics 365 の設定](/help/integrations/configure-dynamics-365.md)

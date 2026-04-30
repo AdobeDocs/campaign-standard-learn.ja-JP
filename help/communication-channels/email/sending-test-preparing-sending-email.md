@@ -1,6 +1,6 @@
 ---
 title: テストメールの送信、メール配信の準備、メールの送信
-description: 'Learn how to send a test email, prepare, and then send the email delivery. '
+description: 'テストメールの送信、準備、メール配信の送信方法について説明します。 '
 feature: Email, Test Profiles
 jira: KT-1812
 thumbnail: 24013.jpg
@@ -10,9 +10,8 @@ team: DOC
 exl-id: 2cb70be4-cd27-4da3-828a-be4c07d4c951
 role: User
 level: Beginner
-hidefromtoc: true
 hide: true
-source-git-commit: 6ed6364db3a488a5bf092da155e5c257e5b42348
+source-git-commit: 907e14a1fcd0b53b856278956d50029a1536b266
 workflow-type: tm+mt
 source-wordcount: '51'
 ht-degree: 31%
@@ -21,6 +20,6 @@ ht-degree: 31%
 
 # テストメールの送信、メール配信の準備、メールの送信
 
-This video explains how to send a test email, prepare and then send an email delivery in Adobe Campaign Standard (ACS).
+このビデオでは、Adobe Campaign Standard（ACS）でテストメールを送信し、準備してからメール配信を送信する方法を説明します。
 
->[!VIDEO](https://video.tv.adobe.com/v/328368?captions=jpn&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/24013?learn=on){transcript=true}
