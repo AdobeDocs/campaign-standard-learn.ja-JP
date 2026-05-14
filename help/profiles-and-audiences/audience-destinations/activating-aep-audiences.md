@@ -41,4 +41,4 @@ ht-degree: 5%
 
 *ワークフローでAdobe Experience Platform オーディエンスをアクティブ化（02:37分）*
 
-Adobe Experience Platform オーディエンスをCampaign[&#128279;](https://experienceleague.adobe.com/docs/campaign-standard/using/integrating-with-adobe-cloud/adobe-experience-platform/aep-sources-destinations/ingest-aep-data.html)に取り込む方法については、製品ドキュメントを参照してください
+Adobe Experience Platform オーディエンスをCampaign[&#128279;](https://experienceleague.adobe.com/docs/campaign-standard/using/integrating-with-adobe-cloud/adobe-experience-platform/aep-sources-destinations/ingest-aep-data.html?lang=ja)に取り込む方法については、製品ドキュメントを参照してください

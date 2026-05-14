@@ -35,5 +35,5 @@ Adobe Campaignを使用して[!UICONTROL Push Notification]を作成して送信
 
 ## その他のリソース
 
-* [プッシュ通知の詳細ドキュメント](https://experienceleague.adobe.com/docs/campaign-standard/using/communication-channels/push-notifications/about-push-notifications.html?lang=en)
+* [プッシュ通知の詳細ドキュメント](https://experienceleague.adobe.com/docs/campaign-standard/using/communication-channels/push-notifications/about-push-notifications.html?lang=ja)
 * [プッシュ通知の作成（ビデオ）](/help/communication-channels/mobile/push-notifications/creating-a-push-notification.md)

@@ -37,4 +37,4 @@ ht-degree: 22%
 
 ## その他のリソース
 
-* [疲労ルール（ドキュメント）](https://experienceleague.adobe.com/docs/campaign-standard/using/testing-and-sending/working-with-typology-rules/fatigue-rules.html)
+* [疲労ルール（ドキュメント）](https://experienceleague.adobe.com/docs/campaign-standard/using/testing-and-sending/working-with-typology-rules/fatigue-rules.html?lang=ja)

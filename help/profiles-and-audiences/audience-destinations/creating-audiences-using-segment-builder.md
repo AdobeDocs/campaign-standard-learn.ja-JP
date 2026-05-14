@@ -35,7 +35,7 @@ ht-degree: 9%
 >
 >この機能を実装する予定がある場合は、[!UICONTROL Adobe Customer Support]にお問い合わせください。
 
-Adobe Campaign Standardでは、Adobe Experience Platform [!UICONTROL Unified Segment Builder]を使用して、Adobe Experience Cloud [Real-Time Customer Profile](https://experienceleague.adobe.com/docs/platform-learn/tutorials/profiles/understanding-the-real-time-customer-profile.html?lang=en)のデータを使用してオーディエンスを構築できます。
+Adobe Campaign Standardでは、Adobe Experience Platform [!UICONTROL Unified Segment Builder]を使用して、Adobe Experience Cloud [Real-Time Customer Profile](https://experienceleague.adobe.com/docs/platform-learn/tutorials/profiles/understanding-the-real-time-customer-profile.html?lang=ja)のデータを使用してオーディエンスを構築できます。
 
 [!UICONTROL Audiences] モジュールを使用して、Adobe Campaign Standard内で[!UICONTROL Unified Segment Builder]に直接アクセスできます。 これらのオーディエンスを[!UICONTROL Audiences] リストビューで直接管理できます。このビューでは、Adobe Campaign インターフェイスから直接Adobe Experience Platform オーディエンスを編集または作成できます
 

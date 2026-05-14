@@ -45,4 +45,4 @@ ht-degree: 27%
 
 >[!VIDEO](https://video.tv.adobe.com/v/23937?learn=on){transcript=true}
 
-[&#x200B; ワークフローの作成（ドキュメント） &#x200B;](https://experienceleague.adobe.com/docs/campaign-standard/using/managing-processes-and-data/workflow-general-operation/building-a-workflow.html)について詳しくは、製品ドキュメントを参照してください
+[&#x200B; ワークフローの作成（ドキュメント） &#x200B;](https://experienceleague.adobe.com/docs/campaign-standard/using/managing-processes-and-data/workflow-general-operation/building-a-workflow.html?lang=ja)について詳しくは、製品ドキュメントを参照してください
