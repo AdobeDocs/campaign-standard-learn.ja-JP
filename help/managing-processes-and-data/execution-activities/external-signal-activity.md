@@ -1,6 +1,6 @@
 ---
-title: 外部シグナルアクティビティ – パラメーターを使用してワークフローを呼び出します
-description: より複雑なカスタマージャーニーをサポートすると同時に、問題をより適切に監視し、対応できる、ワークフローを別のワークフローから開始する方法を説明します。
+title: 外部信号アクティビティ – パラメーターを使用したワークフローの呼び出し
+description: 複雑なカスタマージャーニーをサポートしながら、問題をより適切に監視して対処するための方法を、複数のワークフローから構築する方法をご確認ください。
 feature: Execution Activity
 jira: KT-2750
 thumbnail: 27249
@@ -10,18 +10,21 @@ team: TM
 exl-id: d3996185-681c-4906-85f0-0543ab767519
 role: User, Developer
 level: Experienced
-source-git-commit: 943599bd7ce139ef846f093ebda9084a91550aca
+TQID: https://experienceleague.adobe.com/oHaDgmH9ROS3iVJr-OYRUsfTMk5j4eRwijeuNiueY30
+product_v2: id: dfc56824-e8b9-499e-85d4-21aedb507314
+role_v2: id: b69b2659-1057-424e-8fc5-ed9e016dc554id: ff6a42d2-313e-452e-93a6-792e4fad9ff8
+topic_v2: id: d00e9f03-e50b-4162-b143-0c0817c937c2
+source-git-commit: 7d15c0a5dc01907ff529b3684eaddaca5321facc
 workflow-type: tm+mt
-source-wordcount: '156'
-ht-degree: 1%
+source-wordcount: 154
+ht-degree: 0%
 
 ---
 
-
 # [!UICONTROL External Signal activity] - パラメーターを使用したワークフローの呼び出し
 
-[!UICONTROL External Signal activity] は、同じカスタマージャーニーの一部である異なるプロセスを異なるワークフローに整理し、調整するために使用されます。 このアクティビティは、あるワークフローを別のワークフローから開始できます。 [!UICONTROL External Signal activity] は、ワークフローを呼び出して、ターゲットとするオーディエンス名、読み込むファイル名、メッセージコンテンツの一部などのパラメーターをワークフロー間で渡すことができます。 また、REST API を呼び出して、コンテンツ管理システムなどの外部システムと統合することもできます。 **テスト** アクティビティを使用すると、この機能でテストを実行できます。
+[!UICONTROL External Signal activity]は、同じカスタマージャーニーの一部である異なるプロセスを整理し、異なるワークフローに編成するために使用されます。 このアクティビティは、あるワークフローを別のワークフローから開始できます。 [!UICONTROL External Signal activity]は、ワークフローを呼び出し、あるワークフローから別のワークフローに、ターゲットへのオーディエンス名、インポートするファイル名、メッセージコンテンツの一部などのパラメーターを渡すことができます。 また、コンテンツ管理システムなどの外部システムと統合するためにREST APIを呼び出すこともできます。 **テスト** アクティビティを使用すると、この機能でテストを実行できます。
 
-外部システムからパラメーターを受け取る [!UICONTROL External Signal activity] ークフローの設定方法**外部パラメーターを使用したワークフローのカスタマイズ方法、外部パラメーターを使用したワークフローの呼び出しを行う終了アクティビティの設定方法を説明します
+外部システムからパラメーターを受け取り**外部パラメーターを使用してワークフローをカスタマイズし、外部パラメーターを使用してワークフローを呼び出すように終了アクティビティを設定する方法を説明します[!UICONTROL External Signal activity]
 
->[!VIDEO](https://video.tv.adobe.com/v/34389/?learn=on&captions=jpn){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/27249/?learn=on){transcript=true}

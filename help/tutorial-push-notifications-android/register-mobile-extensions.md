@@ -1,6 +1,6 @@
 ---
 title: 手順 3 - モバイルアプリに拡張機能を登録
-description: このパートでは、ユーザープロファイル、ID、ライフサイクル、シグナルの各拡張機能を登録するコードを追加します。
+description: この部分では、UserProfile、ID、ライフサイクル、Signal拡張機能を登録するコードを追加します。
 feature: Push
 user: Admin
 level: Experienced
@@ -9,20 +9,22 @@ doc-type: tutorial
 activity: use
 team: TM
 exl-id: d8c0d8c6-2e04-4c27-b27a-d0de79dd953b
-source-git-commit: 9be31e056800b806c49a2c5ffbf9f9f42b001d4c
+TQID: https://experienceleague.adobe.com/WjKV0qe9zi7cV37Wn54BJdI91n92i302t4k-yMIenZ4
+product_v2: id: dfc56824-e8b9-499e-85d4-21aedb507314
+source-git-commit: 7d15c0a5dc01907ff529b3684eaddaca5321facc
 workflow-type: tm+mt
-source-wordcount: '110'
+source-wordcount: 111
 ht-degree: 14%
 
 ---
 
 # 手順 3 - モバイルアプリに拡張機能を登録
 
-このパートでは、ユーザープロファイル、ID、ライフサイクル、シグナル拡張機能を登録するコードを追加します。 また、次のコードに示すように、Adobe Campaign Standard拡張機能を登録する必要があります。
+この部分では、ユーザープロファイル、ID、ライフサイクル、およびSignal拡張機能を登録するコードを追加します。 また、以下のコードに示すように、Adobe Campaign Standard拡張機能を登録する必要があります。
 
-[!DNL Android] Studio でプロジェクトを開きます。 MainApp のコード全体 **パッケージステートメントの最初の行を除く** を削除します。
+[!DNL Android] Studioでプロジェクトを開きます。 パッケージ文&#x200B;**の最初の行を除き、MainApp**&#x200B;のコード全体を削除します。
 
-次のコードを MainApp に貼り付けます。
+次のコードをMainAppにペーストします
 
 <!--
 Removed `{.line-numbers}` below
@@ -70,6 +72,6 @@ try{
 }
 ```
 
-32 行目では、[!UICONTROL &#x200B; Launch] プロパティの環境ファイル ID を指定する必要があります。 これは、[!UICONTROL Launch] プロパティの [!UICONTROL environment tab] からアクセスできます。
+32行目[!UICONTROL  Launch] プロパティの環境ファイル IDを指定する必要があります。 これは、[!UICONTROL Launch] プロパティの[!UICONTROL environment tab]からアクセスできます。
 
 ![launch-id](assets/launch-id-property.PNG)
