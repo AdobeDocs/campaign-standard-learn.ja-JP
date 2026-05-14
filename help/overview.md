@@ -1,20 +1,25 @@
 ---
 title: Adobe Campaign Standard チュートリアル - 概要
-description: Adobe Campaign は、クロスチャネルのカスタマーエクスペリエンスを設計するためのプラットフォームであり、視覚的なキャンペーンオーケストレーション、リアルタイムインタラクション管理およびクロスチャネル実行のための環境を提供します。このユーザーガイドには、Adobe Campaign Standard の数々の特長や機能に関するビデオとチュートリアルが含まれています。
+description: Adobe Campaign は、クロスチャネルのカスタマーエクスペリエンスを設計するためのプラットフォームであり、視覚的なキャンペーンオーケストレーション、リアルタイムインタラクション管理およびクロスチャネル実行のための環境を提供します。 このユーザーガイドには、Adobe Campaign Standard の数々の特長や機能に関するビデオとチュートリアルが含まれています。
 products: SG_CAMPAIGN/STANDARD
 exl-id: b97710d1-3e93-41f6-a51e-9bf4c519fec3
 feature: Overview
 recommendations: noDisplay, noCatalog
-source-git-commit: de9f1bc51e95330b3c6a04426d11de2aea845697
+TQID: https://experienceleague.adobe.com/FenvZrMwYIQxSWeycBD9F-3pc-669812tnwzhMUxb5k
+product_v2:
+  - id: dfc56824-e8b9-499e-85d4-21aedb507314
+topic_v2:
+  - id: bce87dde-a4ab-44c9-8a18-ad66e4ddb377
+source-git-commit: 7d15c0a5dc01907ff529b3684eaddaca5321facc
 workflow-type: tm+mt
-source-wordcount: '199'
-ht-degree: 100%
+source-wordcount: 251
+ht-degree: 92%
 
 ---
 
 # Adobe Campaign Standard チュートリアル
 
-Adobe Campaign は、クロスチャネルのカスタマーエクスペリエンスを設計するためのプラットフォームであり、視覚的なキャンペーンオーケストレーション、リアルタイムインタラクション管理およびクロスチャネル実行のための環境を提供します。このユーザーガイドには、Adobe Campaign Standard の数々の特長や機能に関するビデオとチュートリアルが含まれています。
+Adobe Campaign は、クロスチャネルのカスタマーエクスペリエンスを設計するためのプラットフォームであり、視覚的なキャンペーンオーケストレーション、リアルタイムインタラクション管理およびクロスチャネル実行のための環境を提供します。 このユーザーガイドには、Adobe Campaign Standard の数々の特長や機能に関するビデオとチュートリアルが含まれています。
 
 <div id="recs-overview-body-1"></div>
 <div id="recs-overview-body-2"></div>
@@ -35,7 +40,7 @@ Adobe Campaign は、クロスチャネルのカスタマーエクスペリエ�
     </a>
     <div>
       <a href="./communication-channels/email/profile-substitution.md">
-    <strong>プロファイルの置き換え - ターゲットプロファイルを使用した E メールメッセージのテスト（ビデオ）</strong>
+    <strong> プロファイルの置換 – ターゲットプロファイルを使用したメールメッセージのテスト（ビデオ） </strong>
     </a>
     </div>
     <p>
@@ -48,7 +53,7 @@ Adobe Campaign は、クロスチャネルのカスタマーエクスペリエ�
     </a>
     <div>
     <a href="https://experienceleague.adobe.com/docs/control-panel-learn/tutorials/control-panel-overview.html?lang=ja">
-    <strong>コントロールパネル（ビデオ）</strong>
+    <strong>Campaign コントロールパネル（ビデオ） </strong>
     </a>
     </div>
     <p>
@@ -61,7 +66,7 @@ Adobe Campaign は、クロスチャネルのカスタマーエクスペリエ�
     </a>
     <div>
       <a href="https://experienceleague.adobe.com/docs/campaign-standard-learn/getting-started-with-push-notifications-android/introduction.html?lang=ja">
-    <strong>チュートリアル：Android™ 向けプッシュ通知の概要</strong>
+    <strong> チュートリアル：Androidのプッシュ通知の概要™</strong>
     </a>
     </div>
     <p>

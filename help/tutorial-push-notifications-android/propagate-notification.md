@@ -1,6 +1,6 @@
 ---
 title: 手順 5 - 通知の伝達
-description: ここでは、Android Notification Manager.Firebase を使用して、Adobe Campaignから受信したメッセージを反映させます。
+description: このパートでは、Android Notification Manager.Firebaseを使用してAdobe Campaignから受信したメッセージを反映します
 feature: Push
 jira: KT-4829
 user: Admin
@@ -9,24 +9,27 @@ doc-type: tutorial
 activity: use
 team: TM
 exl-id: b0e01224-4ddc-4999-b8c6-794e49245428
-source-git-commit: 200dcb4d6698c174f7fde508779609b11043d031
+TQID: https://experienceleague.adobe.com/xNsJ0Cj8CUpvHfR66lTnZZEp-shWD0OC14ctHHFu4IY
+product_v2:
+  - id: dfc56824-e8b9-499e-85d4-21aedb507314
+source-git-commit: 7d15c0a5dc01907ff529b3684eaddaca5321facc
 workflow-type: tm+mt
-source-wordcount: '155'
+source-wordcount: 155
 ht-degree: 2%
 
 ---
 
-# 通知を送信するサービスの追加
+# 通知を送信するサービスを追加
 
-ここでは、Adobe Campaignから受信したメッセージを [!DNL Android Notification Manager] を使用して伝達します。 [!DNL Notification manager] は、発生するイベントをユーザーに通知するために使用されます。
-バックグラウンドで何かが発生したことをユーザーに通知する方法は次のとおりです。
+このパートでは、[!DNL Android Notification Manager]を使用してAdobe Campaignから受信したメッセージを反映します。 [!DNL Notification manager]は、発生したイベントをユーザーに通知するために使用されます。
+これは、バックグラウンドで何かが起こったことをユーザーに伝える方法です。
 
-* Launch [!DNL Android Studio]
-* プロジェクト *[!DNL ACSPushTutorial]* 開く
-* プロジェクト構造を展開する
-* パッケージフォルダー（[!DNL com.example.acspushtutorial]）を右クリックし、[!DNL New ->Java Class] をクリックします
-* このクラスに *[!DNL MyService]* という名前を付け、[!DNL FirebaseMessagingService] に拡張することを確認してください
-* このクラス *[!DNL sendNotification]* メソッドを作成します。 この方法では、[!DNL NotificationCompat.Builder] オブジェクトを使用して通知のコンテンツとチャネルを設定する必要があります。 通知を表示するには、[!DNL NotificationManagerCompat.notify()] を呼び出して、通知の一意の ID と [!DNL NotificationCompat.Builder.build()] の結果を渡します。
+* [!DNL Android Studio]を起動
+* *[!DNL ACSPushTutorial]* プロジェクトを開く
+* プロジェクト構造の拡張
+* パッケージフォルダー（[!DNL com.example.acspushtutorial]）と[!DNL New ->Java Class]を右クリックします
+* このクラスに&#x200B;*[!DNL MyService]*&#x200B;という名前を付け、このクラスに[!DNL FirebaseMessagingService]が含まれていることを確認します
+* このクラスに&#x200B;*[!DNL sendNotification]* メソッドを作成します。 この方法では、[!DNL NotificationCompat.Builder] オブジェクトを使用して、通知のコンテンツとチャネルを設定する必要があります。 通知を表示するには、[!DNL NotificationManagerCompat.notify()]を呼び出して、通知の一意のIDと[!DNL NotificationCompat.Builder.build()]の結果を渡します。
 
 <!--
 Removed `{.line-numbers}` below
@@ -93,9 +96,9 @@ notificationManager.notify(0 /* ID of notification */, notificationBuilder.build
 }
 ```
 
-## [!DNL AndroidManifest.xml] を変更
+## [!DNL AndroidManifest.xml]を変更
 
-作成したサービスを [!DNL AndroidManifest.xml] に追加します。 最終的な [!DNL AndroidManifest.xml] は次のようになります。
+作成したサービスを[!DNL AndroidManifest.xml]に追加します。 最終的な[!DNL AndroidManifest.xml]は次のようになります。
 
 <!--
 Removed `{.line-numbers}` below
@@ -139,4 +142,4 @@ Removed `{.line-numbers}` below
 
 ## アプリの実行
 
-ツールバーの **緑色の矢印** をクリックするか、[!DNL Run] メニューからアプリを実行します。
+ツールバーまたは[!DNL Run] メニューの&#x200B;**緑の矢印**&#x200B;をクリックして、アプリを実行します。

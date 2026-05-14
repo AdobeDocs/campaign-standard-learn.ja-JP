@@ -1,6 +1,6 @@
 ---
-title: 手順 4 - pushidentifier の設定
-description: '**pushIdentifier**は、プッシュ通知用のデバイストークンを含む文字列です。 Firebase から送信されるトークンと同じで、MobileCore.setPushIdentifier メソッドを使用して SDK に渡されます。'
+title: 手順4 - プッシュ識別子の設定
+description: '**pushIdentifier**は、プッシュ通知用のデバイストークンを含む文字列です。 これは、Firebaseによって送信され、MobileCore.setPushIdentifier メソッドを使用してSDKに渡されるのと同じトークンです。'
 feature: Push
 user: Admin
 level: Experienced
@@ -9,20 +9,25 @@ doc-type: tutorial
 activity: use
 team: TM
 exl-id: 08387b84-edaa-45ee-ae66-53bcbd5c7c39
-source-git-commit: 757afce50981b96b7820c987308d639a73746c0c
+TQID: https://experienceleague.adobe.com/Sr5MNZscXvLdlEZL0nIWf1SRicemz-fu87GpB55PVGE
+product_v2:
+  - id: dfc56824-e8b9-499e-85d4-21aedb507314
+topic_v2:
+  - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
+source-git-commit: 7d15c0a5dc01907ff529b3684eaddaca5321facc
 workflow-type: tm+mt
-source-wordcount: '209'
+source-wordcount: 212
 ht-degree: 0%
 
 ---
 
-# 手順 4 - [!DNL pushidentifier] の設定
+# 手順4 - [!DNL pushidentifier]を設定
 
-**[!DNL pushidentifier]** は、[!DNL Push] 通知用のデバイストークンを含む文字列です。 [!DNL Firebase] から送信され、[!DNL MobileCore.setPushIdentifier] メソッドを使用して SDK に渡されるトークンと同じです。
+**[!DNL pushidentifier]**&#x200B;は、[!DNL Push]通知のデバイストークンを含む文字列です。 これは、[!DNL Firebase]によって送信され、[!DNL MobileCore.setPushIdentifier] メソッドを使用してSDKに渡されるのと同じトークンです。
 
-[!DNL Android™]studio でプロジェクトを開きます。 [!DNL MainActivity] のコード全体 **パッケージステートメントの最初の行を除く** を削除します。
+[!DNL Android™]studioでプロジェクトを開きます。 [!DNL MainActivity] **のコード全体を削除します。ただし、最初の行はパッケージのステートメント**&#x200B;です。
 
-次のコードを [!DNL MainActivity] に貼り付けます。
+次のコードを[!DNL MainActivity]に貼り付けます：
 
 <!--
 Removed `{.line-numbers}` below
@@ -87,23 +92,23 @@ MobileCore.lifecyclePause();
 }
 ```
 
-## アプリのテスト
+## アプリをテスト
 
-先に進む前に、今がアプリをテストするのに良いタイミングです。
+アプリをテストする良い機会です。次に進む前に。
 
-* 緑の矢印をクリックするか、**[!DNL Run->Run'app']** を選択して、アプリを実行します。
-* [!DNL Android™] エミュレーターが起動し、アプリが [!DNL "Hello World"]text で実行されているのが確認できます。
-* [!DNL logcat] ウィンドウを開きます。 「[!DNL Got]」を検索します。 次に示すように、[!DNL Firebase] から受信したトークンがログに書き込まれているのが確認できます。 「[!DNL Got token]」の後の長い文字列は [!DNL pushidentifier] で、Adobe Campaignに送信されます。
+* 緑の矢印をクリックするか、**[!DNL Run->Run'app']**&#x200B;を選択してアプリを実行します。
+* [!DNL Android™] エミュレーターが起動し、[!DNL "Hello World"] テキストでアプリが実行されます。
+* [!DNL logcat] ウィンドウを開きます。 「[!DNL Got]」を検索します。 ログに書き込まれた[!DNL Firebase]から受信したトークンは、次のように表示されます。 「[!DNL Got token]」の後の長い文字列は、Adobe Campaignに送信される[!DNL pushidentifier]です。
 
 ![logcat-token](assets/logcat-got-token.PNG)
 
-### モバイルアプリケーション購読者の確認
+### モバイルアプリケーションのサブスクライバーを確認する
 
 Adobe Campaign Standard インスタンスにログインします。
-**[!UICONTROL Administration->Channels->Mobile App(Experience Platform SDK)]** に移動します。 適切なモバイルアプリケーションを開きます。 「[!UICONTROL Mobile Application Subscribers]」タブに移動します。 [!UICONTROL registration token]listed が表示されます。
+**[!UICONTROL Administration->Channels->Mobile App(Experience Platform SDK)]**&#x200B;に移動します。 適切なモバイルアプリケーションを開きます。 「[!UICONTROL Mobile Application Subscribers]」タブにタブします。 リストに[!UICONTROL registration token]が表示されます。
 
-![&#x200B; モバイルアプリケーション購読者 &#x200B;](assets/mobile-application-subscribers.PNG)
+![mobile-application-subscribers](assets/mobile-application-subscribers.PNG)
 
 >[!NOTE]
 >
->[!UICONTROL Mobile Application Subscribers] のタブに登録トークンが表示されない場合は、先に進む前にここで停止します。
+>[!UICONTROL Mobile Application Subscribers] タブに登録トークンが表示されない場合は、先に進む前にここで停止してください。

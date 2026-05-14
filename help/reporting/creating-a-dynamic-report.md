@@ -10,21 +10,30 @@ team: DOC
 exl-id: a2b93d8b-0d3e-4525-a334-a01701d34d85
 role: User
 level: Beginner
-source-git-commit: 943599bd7ce139ef846f093ebda9084a91550aca
+TQID: https://experienceleague.adobe.com/d2rE4Xx7LS-ve3-y5ADg1NhloN2obuOjLL6xLAgWegM
+product_v2:
+  - id: dfc56824-e8b9-499e-85d4-21aedb507314
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+level_v2:
+  - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+topic_v2:
+  - id: aa2f3246-cb95-4b30-8899-fdf7d73550cc
+source-git-commit: 7d15c0a5dc01907ff529b3684eaddaca5321facc
 workflow-type: tm+mt
-source-wordcount: '55'
-ht-degree: 36%
+source-wordcount: 66
+ht-degree: 30%
 
 ---
 
-# [!UICONTROL Dynamic Report] の作成{#creating-a-report}
+# [!UICONTROL Dynamic Report]を作成{#creating-a-report}
 
-Adobe Campaign [!UICONTROL Dynamic Reports] は、データを調査できる柔軟なフリーフォーム環境です。 ディメンション、指標および時間範囲を、無制限の分類と比較を使用して、任意の組み合わせで組み合わせることができます。
+Adobe Campaignの[!UICONTROL Dynamic Reports]は、データを探索できる柔軟なフリーフォーム環境です。 ディメンション、指標、時間範囲を任意の組み合わせで組み合わせることができ、分類や比較は無制限に行うことができます。
 
 レポートを作成する方法について学習します。
 
->[!VIDEO](https://video.tv.adobe.com/v/328359/?learn=on&captions=jpn){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/328359/?captions=jpn&learn=on){transcript=true}
 
 ## その他のリソース
 
-* [&#x200B; レポートについて &#x200B;](https://experienceleague.adobe.com/docs/campaign-standard/using/reporting/about-reporting/about-dynamic-reports.html?lang=ja)
+* [レポートについて](https://experienceleague.adobe.com/docs/campaign-standard/using/reporting/about-reporting/about-dynamic-reports.html?lang=ja)

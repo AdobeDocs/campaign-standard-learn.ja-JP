@@ -6,11 +6,26 @@ feature: Personalization, Campaigns, Subscriptions, Deliverability
 role: User
 level: Beginner
 jira: KT-11779
-last-substantial-update: 2023-01-31T00:00:00Z
+last-substantial-update: 2023-01-31T00:00:00.000Z
 exl-id: 13180aae-15c8-42dd-97a2-86eec506f58b
-source-git-commit: 2c3ea431fb9dc4bdd5d951445d682506403e2e37
-workflow-type: ht
-source-wordcount: '1354'
+TQID: https://experienceleague.adobe.com/3cS86wQcT-wVfOQwmDzaqg7OJu-rakFrAzAx-gd-DFU
+product_v2:
+  - id: dfc56824-e8b9-499e-85d4-21aedb507314
+feature_v2:
+  - id: a075b2c1-7748-4328-b7f6-343aa314616a
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+level_v2:
+  - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+topic_v2:
+  - id: c1579802-ddd4-4214-8a91-97b2066abe11
+  - id: cdd65e7e-8839-44a2-bc21-0e03623b5dd1
+  - id: e0eb8757-182f-49f3-94a4-1587d16f5094
+  - id: e1e0219c-f879-479f-8427-888ed2a6e9c2
+  - id: f4e6943a-c91a-4134-a2c7-f4f20cfff2f0
+source-git-commit: 7d15c0a5dc01907ff529b3684eaddaca5321facc
+workflow-type: tm+mt
+source-wordcount: 1354
 ht-degree: 100%
 
 ---
@@ -26,7 +41,7 @@ Christian Klimczyk は、[!DNL Adobe Experience Cloud] を専門とした（主�
 
 [!DNL Adobe Campaign] で確実に成功するための最初の手順は、ツールと顧客の期待を理解することです。これは、あらゆるタイプのマーケティングに当てはまります。 消費者に連絡するために使用するチャネルを明確に定義して理解し、それらのチャネルを使用するタイミングと理由を把握します。
 
-Adobe Campaign は、様々な方法で通信を実行および調整できる柔軟なツールです。[顧客の半数は、各購買ジャーニーで 3～5 つのチャネルを利用しています](https://www.mckinsey.com/capabilities/operations/our-insights/redefine-the-omnichannel-approach-focus-on-what-truly-matters)。したがって、これらのチャネルの使用方法を事前に理解し、計画を立てることは、プラットフォームの可能性を最大限に引き出し、顧客の共感を得るために重要です。
+Adobe Campaign は、様々な方法で通信を実行および調整できる柔軟なツールです。 [顧客の半数は、各購買ジャーニーで 3～5 つのチャネルを利用しています](https://www.mckinsey.com/capabilities/operations/our-insights/redefine-the-omnichannel-approach-focus-on-what-truly-matters)。 したがって、これらのチャネルの使用方法を事前に理解し、計画を立てることは、プラットフォームの可能性を最大限に引き出し、顧客の共感を得るために重要です。
 
 ## &#x200B;2. 顧客データの文書化と理解
 
@@ -40,17 +55,17 @@ Adobe Campaign では、セグメント化をすばやく簡単に調整でき�
 
 顧客と同じように、日常生活があります。 キャンペーンの送信とオーケストレーションは、このリズムに対応する必要があります。 そうしないと、[送信メールの 85％が開封されず、送信メールの 98％がクリックスルーされない](https://www.validity.com/resource-center/state-of-email-2021/)ので、顧客に到達できない可能性があります。
 
-例えば、顧客が朝に電話をチェックして最安値をチェックしている場合は、プロモーションのテキストメッセージを送信することを検討します。 次のホットトレンドを夜にブラウジングしている場合は、送料無料のプロモコードを記載したフォローアップメールを送信することを検討します。 また、[!DNL Campaign] のヒートマップツールを使用して、ワークフローと送信が実行されているタイミングを追跡することも重要です。 複数のブランド間で通信を調整して促進することは、困難な場合があります。[メールのリズム、ケイデンス、タイミングを監視し、把握すること](https://experienceleaguecommunities.adobe.com/t5/adobe-campaign-classic-blogs/predictive-send-time-optimization-with-adobe-campaign/ba-p/561554?profile.language=ja)は、メッセージと Campaign インスタンスの全体的な安定性と効果を保つ上で重要です。
+例えば、顧客が朝に電話をチェックして最安値をチェックしている場合は、プロモーションのテキストメッセージを送信することを検討します。 次のホットトレンドを夜にブラウジングしている場合は、送料無料のプロモコードを記載したフォローアップメールを送信することを検討します。 また、[!DNL Campaign] のヒートマップツールを使用して、ワークフローと送信が実行されているタイミングを追跡することも重要です。 複数のブランド間で通信を調整して促進することは、困難な場合があります。 [メールのリズム、ケイデンス、タイミングを監視し、把握すること](https://experienceleaguecommunities.adobe.com/t5/adobe-campaign-classic-blogs/predictive-send-time-optimization-with-adobe-campaign/ba-p/561554?profile.language=ja)は、メッセージと Campaign インスタンスの全体的な安定性と強度にとって非常に重要です。
 
 ## &#x200B;4. 必要に応じたパーソナライゼーションの使用
 
-現在、消費者は受信するメッセージにある程度のパーソナライゼーションを期待しています。[顧客の 80％は、パーソナライズされたエクスペリエンスを提供するブランドから購入する可能性が高くなります](https://us.epsilon.com/power-of-me)。件名にブランド名が入っているのもよいですが、 パーソナライゼーションを使用すれば、さらに先に進むことができます。 閲覧した製品を含めたり、類似の製品と関連付けたり、ブランドの包括的なエクスペリエンスやルックアンドフィールを強化し続けることができます。 すべてのビットがカウントされ、エンゲージメントとメッセージの開封率が促進されます。
+現在、消費者は受信するメッセージにある程度のパーソナライゼーションを期待しています。 [顧客の 80％は、パーソナライズされたエクスペリエンスを提供するブランドから購入する可能性が高くなります](https://us.epsilon.com/power-of-me)。 件名にブランド名が入っているのもよいですが、 パーソナライゼーションを使用すれば、さらに先に進むことができます。 閲覧した製品を含めたり、類似の製品と関連付けたり、ブランドの包括的なエクスペリエンスやルックアンドフィールを強化し続けることができます。 すべてのビットがカウントされ、エンゲージメントとメッセージの開封率が促進されます。
 
 ## &#x200B;5. クリエイティブアセットの健全な在庫を保有する
 
 クリエイティブアセットは、効果的かつ円滑なキャンペーン配信エンジンの原動力です。 消費者に届くのに成功すればするほど、またマーケティングプロセスを拡大して成熟させるほど、よりクリエイティブなコンテンツが必要になります。 消費者は、これを期待しています。
 
-いくら早くできたとしても、チームが設定できる次回の配信と同じ程度です。 多くの場合、それには新しい魅力的なコンテンツが必要です。[!DNL Adobe Campaign]を使用すると、テンプレートの設定と、これらの配信の受信と準備が簡単になります。ただし、[Litmus のレポート](https://www.litmus.com/resources/state-of-email/)によると、マーケターの 58％が、1 つのメールキャンペーンを作成するのに 2 週間以上かかると述べているので、クリエイティブの健全なパイプラインを持つことが重要です。
+いくら早くできたとしても、チームが設定できる次回の配信と同じ程度です。 多くの場合、それには新しい魅力的なコンテンツが必要です。 [!DNL Adobe Campaign] を使用すると、テンプレートの設定と、これらの配信の受信と準備が簡単になります。 ただし、[Litmus のレポート](https://www.litmus.com/resources/state-of-email/)によると、マーケターの 58％が、1 つのメールキャンペーンを作成するのに 2 週間以上かかると述べているので、クリエイティブの健全なパイプラインを持つことが重要です。
 
 ## &#x200B;6. サブスクリプションおよび環境設定の理解と管理
 
