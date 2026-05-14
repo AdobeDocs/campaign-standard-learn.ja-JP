@@ -11,8 +11,10 @@ team: TM
 recommendations: noDisplay
 exl-id: f087d9f2-cce9-4903-977f-3c5b47522c06
 TQID: https://experienceleague.adobe.com/-r-0ZHCJNt6bwarH4I-RzA46Ho9EJgDegCnN6VJVLgk
-product_v2: id: dfc56824-e8b9-499e-85d4-21aedb507314
-topic_v2: id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
+product_v2:
+  - id: dfc56824-e8b9-499e-85d4-21aedb507314
+topic_v2:
+  - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
 source-git-commit: 7d15c0a5dc01907ff529b3684eaddaca5321facc
 workflow-type: tm+mt
 source-wordcount: 329
@@ -26,7 +28,7 @@ ht-degree: 0%
 
 1. [!DNL Firebase] アカウントにログインします。
 
-   [!DNL Firebase]は、高品質なアプリをすばやく開発できるGoogleのモバイル プラットフォームです。 [!DNL Firebase] アカウントをお持ちでない場合は、ここから[ アカウントを作成してください](https://firebase.google.com)。
+   [!DNL Firebase]は、高品質なアプリをすばやく開発できるGoogleのモバイル プラットフォームです。 [!DNL Firebase] アカウントをお持ちでない場合は、ここから[&#x200B; アカウントを作成してください](https://firebase.google.com)。
 
 2. [!DNL Android Studio]を起動
 3. **[!UICONTROL File]** > **[!UICONTROL New]** > **[!UICONTROL New Project]をクリックします。**
@@ -48,7 +50,7 @@ ht-degree: 0%
 8. **[!UICONTROL Tools]** > **[!UICONTROL Firebase].**&#x200B;をクリックします （これにより、プロジェクトが[!DNL Firebase]に追加されます）
 9. **[!UICONTROL Set up Firebase Cloud Messaging].**&#x200B;をクリックします
 
-   ![firebaseのセットアップ ](assets/android-project-firebase-messaging.PNG)
+   ![firebaseのセットアップ &#x200B;](assets/android-project-firebase-messaging.PNG)
 
 10. **[!UICONTROL Connect to Firebase].**&#x200B;をクリックします
 11. アプリをFirebaseに接続したら、**[!UICONTROL Add FCM to your app]をクリックします。**
@@ -62,7 +64,7 @@ ht-degree: 0%
 
 ![[!DNL fcm-successfull]](assets/android-firebase-success.PNG)
 
-[プロジェクトが [!DNL Firebase ] コンソールにリストされていることを確認してください](https://console.firebase.google.com/)
+[プロジェクトが [!DNL Firebase &#x200B;] コンソールにリストされていることを確認してください](https://console.firebase.google.com/)
 
 ## [!UICONTROL Push Channel]設定の構成
 
@@ -75,7 +77,7 @@ ht-degree: 0%
 4. 「**[!UICONTROL Cloud Messaging]**」タブにタブします。
 5. サーバーキーをコピー
 
-   ![ サーバーキー](assets/firebase-server-key.PNG)
+   ![&#x200B; サーバーキー](assets/firebase-server-key.PNG)
 
 6. Adobe Campaign Standard インスタンスへのログイン
 7. **[!UICONTROL Adobe Campaign]** > **[!UICONTROL Administration]** > **[!UICONTROL Channels]** > **[!UICONTROL Mobile App]をクリックします。**
