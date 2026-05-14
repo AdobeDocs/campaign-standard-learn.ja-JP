@@ -30,4 +30,4 @@ ht-degree: 16%
 
 CRM プロファイル属性でパーソナライズされたメッセージを使用して、既知のモバイルアプリユーザーをターゲティングする方法について説明します。
 
->[!VIDEO](https://video.tv.adobe.com/v/26200?learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/35354?captions=jpn&learn=on){transcript=true}

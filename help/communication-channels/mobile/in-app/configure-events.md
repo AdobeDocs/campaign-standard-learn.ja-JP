@@ -30,4 +30,4 @@ ht-degree: 8%
 
 ユーザーが開始したアクショントリガーとアプリ内メッセージを理解し、これらのイベントを設定する方法を説明します。
 
->[!VIDEO](https://video.tv.adobe.com/v/26245?learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/40910?captions=jpn&learn=on){transcript=true}

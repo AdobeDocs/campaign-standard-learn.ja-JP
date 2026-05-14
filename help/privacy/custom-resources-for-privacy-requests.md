@@ -28,7 +28,7 @@ ht-degree: 100%
 
 プライバシーリクエストを処理できるように Adobe Campaign Standard をセットアップする際は、プロファイルにリンクされているカスタムデータがすべてプロファイルの削除時に確実に削除される必要があります。 このビデオでは、この要件を満たすためにカスタムリソースを変更する方法を説明します。
 
->[!VIDEO](https://video.tv.adobe.com/v/23326?learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/329498?captions=jpn&learn=on){transcript=true}
 
 >[!NOTE]
 >

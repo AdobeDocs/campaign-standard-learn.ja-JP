@@ -32,7 +32,7 @@ Adobe Campaignの[!UICONTROL Dynamic Reports]は、カスタムプロファイ�
 
 このビデオでは、カスタムプロファイル属性に基づくレポートの作成方法を説明します。
 
->[!VIDEO](https://video.tv.adobe.com/v/28204?learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/35437?captions=jpn&learn=on){transcript=true}
 
 ## その他のリソース
 

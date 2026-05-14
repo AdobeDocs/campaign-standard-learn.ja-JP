@@ -30,4 +30,4 @@ GDPR や CCPA の要件に応じて、プライバシーのアクセスリクエ
 
 プライバシーリクエストの名前空間を作成する方法について説明します。
 
->[!VIDEO](https://video.tv.adobe.com/v/22600?learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/29420?captions=jpn&learn=on){transcript=true}

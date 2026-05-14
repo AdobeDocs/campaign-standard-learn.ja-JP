@@ -30,7 +30,7 @@ ht-degree: 0%
 
 このビデオでは、[!UICONTROL Direct Mail]配信の設定方法と、[!UICONTROL Direct Mail]配信にプロファイルを追加するために必要な設定について説明します。
 
->[!VIDEO](https://video.tv.adobe.com/v/23417?learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/328362?captions=jpn&learn=on){transcript=true}
 
 ## ワークフロー内で[!UICONTROL Direct Mail]を作成する
 

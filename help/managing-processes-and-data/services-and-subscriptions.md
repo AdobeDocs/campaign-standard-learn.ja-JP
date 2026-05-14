@@ -40,4 +40,4 @@ Adobe Campaignでは、一連のサービスを通じて、ニュースレター
 
 このビデオでは、サービスの作成方法とサブスクリプションの管理方法について説明します。
 
->[!VIDEO](https://video.tv.adobe.com/v/24673?learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/328371?captions=jpn&learn=on){transcript=true}

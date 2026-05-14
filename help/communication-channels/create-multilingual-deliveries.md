@@ -32,4 +32,4 @@ Adobe Campaignを使用すると、多言語施策を送信する際の操作の
 
 このビデオでは、メールニュースレターの例に基づいて、テンプレートに基づいて多言語配信を作成する方法を説明します。 動画で紹介されているアプローチは、電子メール配信とSMS配信の両方に適用されます。
 
->[!VIDEO](https://video.tv.adobe.com/v/23252?learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/37610?captions=jpn&learn=on){transcript=true}

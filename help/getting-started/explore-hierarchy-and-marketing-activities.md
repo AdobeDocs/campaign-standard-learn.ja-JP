@@ -30,5 +30,5 @@ ht-degree: 100%
 
 このビデオでは、プログラムとキャンペーンの階層、マーケティングプログラムの作成方法、プログラム内でマーケティングキャンペーンを作成する方法について説明します。
 
->[!VIDEO](https://video.tv.adobe.com/v/18465?learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/38387?captions=jpn&learn=on){transcript=true}
 

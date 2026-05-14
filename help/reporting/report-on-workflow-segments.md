@@ -34,6 +34,6 @@ ht-degree: 15%
 
 ワークフローでセグメントを定義し、動的レポートにセグメントを定義する方法について説明します。
 
->[!VIDEO](https://video.tv.adobe.com/v/28262?learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/35433?captions=jpn&learn=on){transcript=true}
 
 詳しくは、[&#x200B; ドキュメント &#x200B;](https://experienceleague.adobe.com/docs/campaign-standard/using/reporting/customizing-reports/creating-a-report-workflow-segment.html?lang=ja)を参照してください

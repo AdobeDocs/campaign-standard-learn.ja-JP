@@ -28,4 +28,4 @@ ht-degree: 27%
 
 このビデオでは、ランディングページのテスト方法と公開方法について説明します。
 
->[!VIDEO](https://video.tv.adobe.com/v/24092?learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/37621?captions=jpn&learn=on){transcript=true}

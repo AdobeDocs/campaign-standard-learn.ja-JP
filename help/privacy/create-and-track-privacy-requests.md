@@ -30,6 +30,6 @@ Adobe Campaign では、GDPR や CCPA などのプライバシー法に従って
 
 Adobe Campaign Standard のユーザーインターフェイスでプライバシーリクエストを手動で作成し、その推移をトラッキングする方法について説明します。
 
->[!VIDEO](https://video.tv.adobe.com/v/29235?learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/341019?captions=jpn&learn=on){transcript=true}
 
 詳しくは、製品ドキュメント [Campaign の一般的なプライバシーガイドライン](https://experienceleague.adobe.com/docs/campaign-standard/using/getting-started/privacy/privacy-management.html?lang=ja)を参照してください。

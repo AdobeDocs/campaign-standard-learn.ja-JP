@@ -42,4 +42,4 @@ ht-degree: 100%
 
 このビデオでは、Adobe Campaign Standard のユーザーインターフェイスの概要と、主な機能やコア機能へのアクセス方法について説明します。
 
->[!VIDEO](https://video.tv.adobe.com/v/18469?learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/39551?captions=jpn&learn=on){transcript=true}

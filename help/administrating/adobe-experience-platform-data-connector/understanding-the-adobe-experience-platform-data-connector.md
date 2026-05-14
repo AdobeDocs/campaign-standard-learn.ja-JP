@@ -38,7 +38,7 @@ Adobe Experience Platform [!UICONTROL Data Connector]は、XTK データ（Adobe
 
 Adobe Experience Platform [!UICONTROL Data Connector]は、Adobe Campaign Standard [!UICONTROL custom resources]を理解し、お客様の全体的なデータスキーマをAdobe Experience Platform内でどのように使用すべきかを理解しているデータエンジニアを対象としています。
 
->[!VIDEO](https://video.tv.adobe.com/v/27304?learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/34384?captions=jpn&learn=on){transcript=true}
 
 *このビデオでは、Adobe Experience Platform [!UICONTROL Data Connector] （09:35分）*&#x200B;の概要を説明します
 

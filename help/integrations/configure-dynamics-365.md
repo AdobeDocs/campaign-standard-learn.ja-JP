@@ -33,6 +33,6 @@ ht-degree: 100%
 
 Dynamics と Campaign Standard の統合で使用する Microsoft® Dynamics 365 の設定方法について説明します。
 
->[!VIDEO](https://video.tv.adobe.com/v/27637?learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/35054?captions=jpn&learn=on){transcript=true}
 
 [Microsoft® Dynamics 365 統合の概要](https://experienceleague.adobe.com/docs/campaign-standard/using/integrating-with-adobe-cloud/campaign-and-microsoft-dynamics-365/d365-acs-get-started.html?lang=ja)の詳細については、製品ドキュメントを参照してください。

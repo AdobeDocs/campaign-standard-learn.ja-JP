@@ -28,4 +28,4 @@ ht-degree: 100%
 
 このビデオでは、Adobe Campaign Standard でリスト表示の表示列、順序および並べ替え順を変更する方法を説明します。
 
->[!VIDEO](https://video.tv.adobe.com/v/25288/?learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/328383/?captions=jpn&learn=on){transcript=true}

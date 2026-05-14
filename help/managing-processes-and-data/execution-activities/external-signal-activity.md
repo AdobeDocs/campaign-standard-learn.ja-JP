@@ -31,4 +31,4 @@ ht-degree: 0%
 
 外部システムからパラメーターを受け取り**外部パラメーターを使用してワークフローをカスタマイズし、外部パラメーターを使用してワークフローを呼び出すように終了アクティビティを設定する方法を説明します[!UICONTROL External Signal activity]
 
->[!VIDEO](https://video.tv.adobe.com/v/27249/?learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/34389/?captions=jpn&learn=on){transcript=true}

@@ -32,4 +32,4 @@ ht-degree: 51%
 
 ワークフローを使用してメールを作成および送信する方法を説明します。
 
->[!VIDEO](https://video.tv.adobe.com/v/31465?learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/34703?captions=jpn&learn=on){transcript=true}

@@ -33,4 +33,4 @@ ht-degree: 100%
 
 Campaign Standard でトリガーイベントを作成する方法について説明します。
 
->[!VIDEO](https://video.tv.adobe.com/v/332625?learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3446410?captions=jpn&learn=on){transcript=true}

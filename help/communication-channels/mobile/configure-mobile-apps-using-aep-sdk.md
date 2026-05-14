@@ -30,7 +30,7 @@ Mobile SDK V5を使用してアプリ内メッセージまたは[!UICONTROL push
 
 次のビデオは、Experience Platform Launchでモバイルアプリを設定するために必要な手順を示しています。
 
->[!VIDEO](https://video.tv.adobe.com/v/26224?learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/40903?captions=jpn&learn=on){transcript=true}
 
 >[!NOTE]
 >

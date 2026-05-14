@@ -29,4 +29,4 @@ ht-degree: 36%
 
 このビデオでは、電子メールのプレビュー方法と迷惑メール防止分析について説明します。
 
->[!VIDEO](https://video.tv.adobe.com/v/25921?learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/39666?captions=jpn&learn=on){transcript=true}

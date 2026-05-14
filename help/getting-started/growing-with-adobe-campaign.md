@@ -33,4 +33,4 @@ ht-degree: 100%
 
 このビデオでは、真のクロスチャネルオーケストレーションを実現するために取り得る次のステップに焦点を当てています。
 
->[!VIDEO](https://video.tv.adobe.com/v/29460?learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/35083?captions=jpn&learn=on){transcript=true}

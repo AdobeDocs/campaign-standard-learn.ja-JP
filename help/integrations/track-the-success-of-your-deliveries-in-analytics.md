@@ -36,6 +36,6 @@ ht-degree: 100%
 
 Campaign Standard と Analytics の統合を設定する方法について説明します。 Campaign Standard から受信したデータと使用可能な KPI を使用して、Analytics でレポートを作成する方法を説明します。
 
->[!VIDEO](https://video.tv.adobe.com/v/332576/?learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3449041/?captions=jpn&learn=on){transcript=true}
 
 [レポートスイートの概要と作成](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/intro-to-analytics/analytics-basics/understanding-and-creating-report-suites.html?lang=ja#intro-to-analytics)の詳細については、Adobe Analytics 製品ガイドを参照してください。

@@ -27,7 +27,7 @@ Adobe Campaign では、iOS と Android™ のモバイルデバイスに、パ�
 ## 前提条件
 
 * Adobe Campaign Standard 拡張機能を使用して起動プロパティを設定する必要があります。 以下のオンラインヘルプに従ってください。
-   * [ビデオチュートリアル](https://video.tv.adobe.com/v/26224?learn=on){transcript=true}
+   * [ビデオチュートリアル](https://video.tv.adobe.com/v/40903?captions=jpn&learn=on){transcript=true}
    * [ドキュメント](https://experienceleague.adobe.com/docs/campaign-standard-learn/tutorials/communication-channels/mobile/configure-mobile-apps-using-aep-sdk.html?lang=ja)
 
 * Adobe Campaign Standard で対応するプロパティのステータスが設定済みになっていることを確認します。

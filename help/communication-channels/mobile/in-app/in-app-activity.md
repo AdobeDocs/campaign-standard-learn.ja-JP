@@ -32,4 +32,4 @@ ht-degree: 12%
 
 アプリ内配信アクティビティを使用して、ワークフローで計算されたターゲットオーディエンスにアプリ内メッセージを自動的に送信する方法を説明します。
 
->[!VIDEO](https://video.tv.adobe.com/v/26226?learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/38572?captions=jpn&learn=on){transcript=true}

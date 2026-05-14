@@ -29,4 +29,4 @@ ht-degree: 0%
 
 このビデオでは、モバイルディスプレイのすべてのスタイルオプションを個別に編集して、メールのレスポンシブデザインを微調整する方法を説明します。
 
->[!VIDEO](https://video.tv.adobe.com/v/25919?learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/39673?captions=jpn&learn=on){transcript=true}

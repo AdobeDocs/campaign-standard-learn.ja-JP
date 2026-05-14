@@ -32,6 +32,6 @@ ht-degree: 6%
 
 Adobe Experience Platformを使用してシードデータをマッピングし、プロファイルをテストする方法を説明します。
 
->[!VIDEO](https://video.tv.adobe.com/v/27264?learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/35781?captions=jpn&learn=on){transcript=true}
 
 [&#x200B; マッピング定義](https://experienceleague.adobe.com/docs/campaign-standard/using/integrating-with-adobe-cloud/adobe-experience-platform/data-connector/aep-mapping-definition.html?lang=ja)と[&#x200B; マッピングアクティベーション &#x200B;](https://experienceleague.adobe.com/docs/campaign-standard/using/integrating-with-adobe-cloud/adobe-experience-platform/data-connector/aep-mapping-activation.html?lang=ja)について詳しくは、製品ドキュメントを参照してください

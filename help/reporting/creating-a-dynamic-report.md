@@ -32,7 +32,7 @@ Adobe Campaignの[!UICONTROL Dynamic Reports]は、データを探索できる�
 
 レポートを作成する方法について学習します。
 
->[!VIDEO](https://video.tv.adobe.com/v/25264/?learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/328359/?captions=jpn&learn=on){transcript=true}
 
 ## その他のリソース
 
