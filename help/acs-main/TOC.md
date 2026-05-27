@@ -35,12 +35,12 @@ ht-degree: 95%
    + オーディエンスの宛先（ベータ版）{#audience-destinations}
       + {hide-from-toc}[概要](/help/profiles-and-audiences/audience-destinations/audience-destinations-overview.md)
       + {hide-from-toc}[統合セグメントビルダーを使用したオーディエンスの作成](/help/profiles-and-audiences/audience-destinations/creating-audiences-using-segment-builder.md)
-      + {hide-from-toc}[&#x200B; ワークフローでAdobe Experience Platform オーディエンスをアクティブ化](/help/profiles-and-audiences/audience-destinations/activating-aep-audiences.md)
-      + {hide-from-toc}[&#x200B; ターゲティングディメンションの変更](/help/profiles-and-audiences/audience-destinations/changing-targeting-dimension.md)
+      + {hide-from-toc}[ ワークフローでAdobe Experience Platform オーディエンスをアクティブ化](/help/profiles-and-audiences/audience-destinations/activating-aep-audiences.md)
+      + {hide-from-toc}[ ターゲティングディメンションの変更](/help/profiles-and-audiences/audience-destinations/changing-targeting-dimension.md)
 + 通信チャネル {#communication-channels}
    + メール {#email}
       + [メールの作成](/help/communication-channels/email/create-email-from-homepage.md)
-      + {hide-from-toc}[&#x200B; テストを送信し、準備して、メールを送信](/help/communication-channels/email/sending-test-preparing-sending-email.md)
+      + {hide-from-toc}[ テストを送信し、準備して、メールを送信](/help/communication-channels/email/sending-test-preparing-sending-email.md)
       + [メッセージのスケジュール](/help/communication-channels/email/schedule-messages.md)
       + [配達確認の送信](/help/communication-channels/email/send-a-proof.md)
       + [A/B テスト](/help/communication-channels/email/a-b-testing.md)

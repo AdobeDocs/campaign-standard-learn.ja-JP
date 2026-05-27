@@ -10,18 +10,11 @@ jira: KT-13256
 thumbnail: KT-13256.jpeg
 exl-id: 24a6815b-52d1-4bd6-9d27-522720a91f83
 TQID: https://experienceleague.adobe.com/ISwW4zu0AWc3kmK-H2kOy-r9bPvLsTCLAnk4mbgZkS0
-product_v2:
-  - id: dfc56824-e8b9-499e-85d4-21aedb507314
-feature_v2:
-  - id: a075b2c1-7748-4328-b7f6-343aa314616a
-role_v2:
-  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
-level_v2:
-  - id: b5a62a22-46f7-4f0d-b151-3fc640bef588
-  - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
-topic_v2:
-  - id: c1579802-ddd4-4214-8a91-97b2066abe11
-  - id: e0eb8757-182f-49f3-94a4-1587d16f5094
+product_v2: id: dfc56824-e8b9-499e-85d4-21aedb507314
+feature_v2: id: a075b2c1-7748-4328-b7f6-343aa314616a
+role_v2: id: b69b2659-1057-424e-8fc5-ed9e016dc554
+level_v2: id: b5a62a22-46f7-4f0d-b151-3fc640bef588id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+topic_v2: id: c1579802-ddd4-4214-8a91-97b2066abe11id: e0eb8757-182f-49f3-94a4-1587d16f5094
 source-git-commit: 7d15c0a5dc01907ff529b3684eaddaca5321facc
 workflow-type: tm+mt
 source-wordcount: 743
@@ -31,7 +24,7 @@ ht-degree: 0%
 
 # マーケター向けのトラブルシューティング：5つの一般的なワークフローと配信エラー
 
-作成者：[&#x200B; スライ パトラ &#x200B;](https://www.linkedin.com/in/suraj-p-51612053/){target="_blank"}、Meijer、シニアコンサルタント
+作成者：[ スライ パトラ ](https://www.linkedin.com/in/suraj-p-51612053/){target="_blank"}、Meijer、シニアコンサルタント
 
 過去5年間、Adobe Experience Cloud製品のシニアエンジニアおよびカスタマーエキスパートとして、1934年に設立された米国のスーパーセンターチェーンである[Meijer](https://www.meijer.com/){target="_blank"}のビジネスユーザーが、ACSで複雑なマーケティングキャンペーンやトランザクションキャンペーンを実行できるようにしています。 私が取り組んできたプロジェクトには、パーソナライズのためのオファーや注文詳細を保存するカスタマイズされたキャンペーン、Adobe Audience Managerとの統合、セグメント取り込みのためのcustomer insightなどがあります。
 
@@ -71,7 +64,7 @@ ACSを使用している間、エラーが発生し、解決に時間がかか�
 
 ![紐付けの詳細を含むワークフロー](/help/assets/kt-13256/del-persn-error-wf-solution.png)
 
-[紐付け](https://experienceleague.adobe.com/ja/docs/campaign-standard/using/managing-processes-and-data/data-management-activities/reconciliation)の詳細をご覧ください。
+[紐付け](https://experienceleague.adobe.com/en/docs/campaign-standard/using/managing-processes-and-data/data-management-activities/reconciliation)の詳細をご覧ください。
 
 ## 共通フィールドデータセットエラー
 
@@ -79,7 +72,7 @@ ACSを使用している間、エラーが発生し、解決に時間がかか�
 `The document types of inbound events (''and'') are incompatible (step 'Exclusion'). Unable to perform the operation. `
 
 **原因：**
-この問題は、ACS ワークフローで&#x200B;**exclusion アクティビティ**&#x200B;を使用している場合、IDに基づいて除外を実行する場合、プライマリセットと除外セットが同じフィールド名を持たない場合に発生します。
+この問題は、ACS ワークフローで**exclusion アクティビティ**&#x200B;を使用している場合、IDに基づいて除外を実行する場合、プライマリセットと除外セットが同じフィールド名を持たない場合に発生します。
 
 
 ![共通フィールドデータセットエラー](/help/assets/kt-13256/dataset-error.png)
@@ -105,7 +98,7 @@ ACSを使用している間、エラーが発生し、解決に時間がかか�
 
 エラーポイントは、**エンリッチメントアクティビティ**&#x200B;で発生する可能性があります。 最も一般的なものの1つは下に表示されます。
 
-![&#x200B; フィールド名が削除されましたエラー](/help/assets/kt-13256/field-name-dropped-error.png)
+![ フィールド名が削除されましたエラー](/help/assets/kt-13256/field-name-dropped-error.png)
 
 これは、アクティビティでエクスプレッション名を手動で編集した場合に発生します。 この画像は、式が`name `から`i__name`に変更されたことを示しています。
 
