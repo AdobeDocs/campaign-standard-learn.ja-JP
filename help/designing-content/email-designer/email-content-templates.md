@@ -31,4 +31,4 @@ Adobe Campaign Standardには、すぐに使えるカスタマイズ可能なレ
 
 このビデオでは、テンプレートを紹介し、独自のテンプレートの作成方法を説明します。
 
->[!VIDEO](https://video.tv.adobe.com/v/23106?learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/37616?captions=jpn&learn=on){transcript=true}

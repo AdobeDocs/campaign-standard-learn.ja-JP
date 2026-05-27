@@ -42,7 +42,7 @@ Adobe Dreamweaver と Adobe Campaign Standard の統合により、Dreamweaver �
 
 このビデオでは、Dreamweaver の統合を有効にするために必要な機能と、Dreamweaver を使用して Adobe Campaign Standard 用のコンテンツを作成および編集する方法について説明します。
 
->[!VIDEO](https://video.tv.adobe.com/v/23121?learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/37614?captions=jpn&learn=on){transcript=true}
 
 *Adobe CampaignでDreamweaver統合を使用する方法（02:37分）*
 
