@@ -39,4 +39,4 @@ Web サイトからクリエイティブコンテンツを取得し、それを�
 
 詳細なドキュメントについては、次のリンクを参照してください。
 
-[HTML コンテンツをメール Designer テンプレートに変換する](https://experienceleague.adobe.com/docs/campaign-standard/using/designing-content/building-email-content/using-existing-content.html?lang=en)
+[HTML コンテンツをメール Designer テンプレートに変換する](https://experienceleague.adobe.com/docs/campaign-standard/using/designing-content/building-email-content/using-existing-content.html?lang=ja)
