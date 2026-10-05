@@ -9,16 +9,26 @@ doc-type: tutorial
 activity: use
 team: TM
 exl-id: 10218e1f-6e85-490a-84d9-c5d42bd2321d
-TQID: https://experienceleague.adobe.com/NrQc40vzqTy0fNfVT6fN0IjMKuXjilt6eZV-lgZpAcQ
+TQID: 'https://experienceleague.adobe.com/NrQc40vzqTy0fNfVT6fN0IjMKuXjilt6eZV-lgZpAcQ'
 product_v2:
   - id: dfc56824-e8b9-499e-85d4-21aedb507314
-source-git-commit: 7d15c0a5dc01907ff529b3684eaddaca5321facc
+    internal-label: Campaign
+  - id: f5407121-8933-4ac3-8e06-a9b692a4e88a
+    internal-label: Campaign Standard
+feature_v2:
+  - id: a4671286-a59f-47e3-b97b-90627a1977d5
+    internal-label: Communication channels
+subfeature_v2:
+  - id: a4657621-810c-498b-8a27-7ced9c176dda
+    internal-label: Push notifications
+level_v2:
+  - id: d378ca77-2da1-4f39-ad92-1917fe974a38
+    internal-label: Experienced
+source-git-commit: 508c3590ce956401ccfba3a256000cbc5849a684
 workflow-type: tm+mt
-source-wordcount: 148
+source-wordcount: '148'
 ht-degree: 2%
-
 ---
-
 # パート 6 - [!UICONTROL Push Notification]を送信して作業をテストする
 
 Adobe Campaignを使用して[!UICONTROL Push Notification]を作成して送信する必要があります。 テスト用のシンプルなプッシュ通知を作成するには、次の手順に従います。
@@ -35,5 +45,5 @@ Adobe Campaignを使用して[!UICONTROL Push Notification]を作成して送信
 
 ## その他のリソース
 
-* [プッシュ通知の詳細ドキュメント](https://experienceleague.adobe.com/docs/campaign-standard/using/communication-channels/push-notifications/about-push-notifications.html?lang=ja)
+* [プッシュ通知の詳細ドキュメント](https://experienceleague.adobe.com/docs/campaign-standard/using/communication-channels/push-notifications/about-push-notifications.html?lang=en)
 * [プッシュ通知の作成（ビデオ）](/help/communication-channels/mobile/push-notifications/creating-a-push-notification.md)
