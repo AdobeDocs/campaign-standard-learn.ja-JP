@@ -39,4 +39,4 @@ ht-degree: 0%
 
 >[!VIDEO](https://video.tv.adobe.com/v/27714?learn=on){transcript=true}
 
-[!DNL API]を通じてカスタムリソースを設定する方法について詳しくは、次のドキュメントを参照してください：[ カスタムリソースの操作](https://experienceleague.adobe.com/docs/campaign-standard/using/working-with-apis/interacting-with-custom-resources.html)。
+[!DNL API]を通じてカスタムリソースを設定する方法について詳しくは、次のドキュメントを参照してください：[&#x200B; カスタムリソースの操作](https://experienceleague.adobe.com/docs/campaign-standard/using/working-with-apis/interacting-with-custom-resources.html)。

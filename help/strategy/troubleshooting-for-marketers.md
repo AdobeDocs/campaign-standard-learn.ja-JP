@@ -45,7 +45,7 @@ ht-degree: 1%
 ---
 # マーケター向けのトラブルシューティング：5つの一般的なワークフローと配信エラー
 
-作成者：[ スライ パトラ ](https://www.linkedin.com/in/suraj-p-51612053/){target="_blank"}、Meijer、シニアコンサルタント
+作成者：[&#x200B; スライ パトラ &#x200B;](https://www.linkedin.com/in/suraj-p-51612053/){target="_blank"}、Meijer、シニアコンサルタント
 
 過去5年間、Adobe Experience Cloud製品のシニアエンジニアおよび顧客エキスパートとして、1934年に設立された米国のスーパーセンターチェーンである[Meijer](https://www.meijer.com/){target="_blank"}のビジネスユーザーが、ACSで複雑なマーケティングおよびトランザクションキャンペーンを実行できるようにしています。 私が取り組んできたプロジェクトには、パーソナライズのためのオファーや注文詳細を保存するカスタマイズされたキャンペーン、Adobe Audience Managerとの統合、セグメント取り込みのためのcustomer insightなどがあります。
 
@@ -93,7 +93,7 @@ ACSを使用している間、エラーが発生し、解決に時間がかか�
 `The document types of inbound events (''and'') are incompatible (step 'Exclusion'). Unable to perform the operation. `
 
 **原因：**
-この問題は、ACS ワークフローで**exclusion アクティビティ**&#x200B;を使用している場合、IDに基づいて除外を実行する場合、プライマリセットと除外セットが同じフィールド名を持たない場合に発生します。
+この問題は、ACS ワークフローで&#x200B;**exclusion アクティビティ**&#x200B;を使用している場合、IDに基づいて除外を実行する場合、プライマリセットと除外セットが同じフィールド名を持たない場合に発生します。
 
 
 ![共通フィールドデータセットエラー](/help/assets/kt-13256/dataset-error.png)
@@ -119,7 +119,7 @@ ACSを使用している間、エラーが発生し、解決に時間がかか�
 
 エラーポイントは、**エンリッチメントアクティビティ**&#x200B;で発生する可能性があります。 最も一般的なものの1つは下に表示されます。
 
-![ フィールド名が削除されましたエラー](/help/assets/kt-13256/field-name-dropped-error.png)
+![&#x200B; フィールド名が削除されましたエラー](/help/assets/kt-13256/field-name-dropped-error.png)
 
 これは、アクティビティでエクスプレッション名を手動で編集した場合に発生します。 この画像は、式が`name `から`i__name`に変更されたことを示しています。
 

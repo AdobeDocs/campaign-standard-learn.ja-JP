@@ -83,6 +83,6 @@ try{
 }
 ```
 
-32行目[!UICONTROL  Launch] プロパティの環境ファイル IDを指定する必要があります。 これは、[!UICONTROL Launch] プロパティの[!UICONTROL environment tab]からアクセスできます。
+32行目[!UICONTROL &#x200B; Launch] プロパティの環境ファイル IDを指定する必要があります。 これは、[!UICONTROL Launch] プロパティの[!UICONTROL environment tab]からアクセスできます。
 
 ![launch-id](assets/launch-id-property.PNG)

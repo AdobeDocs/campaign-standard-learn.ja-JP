@@ -63,10 +63,10 @@ ht-degree: 87%
 
 このチュートリアルでは、次の手順の方法について説明します。
 
-手順1 - [ カスタムリソースの作成](./creating-a-custom-resource.md)
+手順1 - [&#x200B; カスタムリソースの作成](./creating-a-custom-resource.md)
 手順2 - [画面定義の設定](./configuring-a-screen-definition-for-a-custom-resource.md)
-手順3 - [ カスタムリソースのリンク](./linking-custom-resources.md)
-手順4 - [ カスタムリソースにデータを入力](./populate-custom-resources-with-data.md)
+手順3 - [&#x200B; カスタムリソースのリンク](./linking-custom-resources.md)
+手順4 - [&#x200B; カスタムリソースにデータを入力](./populate-custom-resources-with-data.md)
 
 ## チュートリアルの開始
 

@@ -41,7 +41,7 @@ ht-degree: 3%
 * [!DNL android.app.Application]を拡張する&#x200B;*MainApp*&#x200B;という新しいJava クラスを作成します
 * 現在のプロジェクト構造は次のようになります
 
-![ メインアプリ ](assets/android-main-app.PNG)
+![&#x200B; メインアプリ &#x200B;](assets/android-main-app.PNG)
 
 * [!DNL Gradle Scripts] フォルダーを展開します。 モジュールの[!DNL build.gradle]をダブルクリックします。 次の依存関係を[!DNL build.gradle] ファイルの依存関係セクションにに貼り付けます。 [!DNL build.gradle] ファイルは次のようになります
 
