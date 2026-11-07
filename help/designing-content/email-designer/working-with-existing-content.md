@@ -41,7 +41,7 @@ ht-degree: 7%
 
 Web サイトからクリエイティブコンテンツを取得し、それをメールDesignerに読み込む方法について説明します。
 
->[!VIDEO](https://video.tv.adobe.com/v/25926?learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3507635?captions=jpn&learn=on){transcript=true}
 
 ## 既存のHTML コンテンツとの互換性 {#making-existing-html-content-compatible}
 
