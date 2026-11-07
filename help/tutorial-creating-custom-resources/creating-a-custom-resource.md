@@ -35,7 +35,7 @@ ht-degree: 28%
 
 このビデオでは、最初のカスタムリソースであるcustomersを作成します。
 
->[!VIDEO](https://video.tv.adobe.com/v/27716?learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3507572?captions=jpn&learn=on){transcript=true}
 
 **次の手順**
 

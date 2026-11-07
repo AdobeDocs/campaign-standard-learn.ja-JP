@@ -35,7 +35,7 @@ ht-degree: 4%
 
 カスタムリソースの画面定義を設定する方法について説明します。
 
->[!VIDEO](https://video.tv.adobe.com/v/27713?learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3507407?captions=jpn&learn=on){transcript=true}
 
 **次の手順**
 
